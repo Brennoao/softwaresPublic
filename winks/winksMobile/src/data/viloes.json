@@ -1,0 +1,503 @@
+[
+  {
+    "id": "8c69b7df-23f8-4c1f-b05e-a0b22c6f3868",
+    "nome": "Icy",
+    "grupo": "Trix",
+    "tipo": "Bruxa",
+    "origem": "Torre Nublada (ex-aluna); segundo o retcon da 8ª temporada, princesa do planeta Dyamond",
+    "poderes": [
+      "Manipulação de gelo e frio",
+      "Criação de armas e barreiras de gelo",
+      "Controle de nevascas e tempestades de neve",
+      "Hidrocinese (controle da água)",
+      "Imunidade a frio extremo",
+      "Telecinese, transmutação e voo (magia básica de bruxa)",
+      "Poderes de Sirenix Sombria (temporada 6)"
+    ],
+    "personalidade": [
+      "Fria, cruel e vingativa",
+      "Carismática e líder natural das Trix",
+      "Inteligente e corajosa",
+      "Capaz de afeto pela irmã Sapphire e pelas próprias irmãs Darcy e Stormy"
+    ],
+    "temporadas": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "objetivo": "Busca de poder e domínio universal; segundo a 8ª temporada, originalmente motivada a salvar sua irmã Sapphire, amaldiçoada por uma bruxa xamã",
+    "comoEDerrotada": "Derrotada por Bloom ao final da 1ª temporada; nas temporadas seguintes é repetidamente derrotada em batalhas de convergência com as Winx; na 8ª temporada trai Valtor e entrega a última Estrela Primordial a Bloom, encerrando seu arco de vilania",
+    "biografia": "Icy é a mais velha e líder das Trix, expulsa de Torre Nublada junto com Darcy e Stormy por tentar roubar a Chama do Dragão. Ao longo da série alia-se a vilões poderosos como Lord Darkar, Valtor e Tritannus (com quem viveu um romance na 5ª temporada). Na 8ª temporada descobre-se que é realmente uma princesa do planeta Dyamond, cuja irmã mais nova foi amaldiçoada, o que recontextualiza sua busca obsessiva por poder.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/2/23/Icy_S8.png/revision/latest",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/4/48/Trix_S8.jpeg/revision/latest"
+  },
+  {
+    "id": "f2a55a54-ce15-4c88-875c-5f2bc8752ba4",
+    "nome": "Darcy",
+    "grupo": "Trix",
+    "tipo": "Bruxa",
+    "origem": "Torre Nublada (ex-aluna)",
+    "poderes": [
+      "Manipulação de trevas e ilusões",
+      "Hipnose e controle mental",
+      "Criação de duplicatas e invisibilidade",
+      "Telepatia e projeção astral",
+      "Telecinese e golpes psíquicos",
+      "Criação de portais e caminhada em paredes",
+      "Metamorfose (a partir da 7ª temporada)"
+    ],
+    "personalidade": [
+      "Calma, calculista e manipuladora",
+      "A mais inteligente e sutil das Trix",
+      "Sádica, mas com autocontrole maior que as irmãs",
+      "Demonstra afeto genuíno por Riven e pelas irmãs em alguns momentos"
+    ],
+    "temporadas": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "objetivo": "Poder e domínio, geralmente manipulando outros para atingir seus objetivos",
+    "comoEDerrotada": "Derrotada junto com Icy e Stormy em confrontos de convergência das Winx ao longo das temporadas",
+    "biografia": "Darcy é a bruxa das trevas e ilusões do trio, especialista em confundir e manipular a percepção dos adversários. É considerada a mente mais fria e estratégica das Trix, mas mantém lealdade inabalável às irmãs.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/8/85/Darcy_S8.png/revision/latest",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/4/48/Trix_S8.jpeg/revision/latest"
+  },
+  {
+    "id": "77473132-2050-45ff-b4ac-c815098d7f74",
+    "nome": "Stormy",
+    "grupo": "Trix",
+    "tipo": "Bruxa",
+    "origem": "Torre Nublada (expulsa no episódio \"Cold Spell\" da 1ª temporada, junto com Icy e Darcy, por tentar roubar a Chama do Dragão)",
+    "poderes": [
+      "Controle de tempestades, ventos e raios",
+      "Criação de tornados e campos de força elétricos",
+      "Invocação de Harpias da Tempestade",
+      "Telecinese, transmutação e criação de portais dimensionais"
+    ],
+    "personalidade": [
+      "Impulsiva, explosiva e agressiva",
+      "Orgulhosa e sedenta por poder",
+      "A mais nova e a mais imprevisível das Trix",
+      "Guarda rancor com facilidade"
+    ],
+    "temporadas": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "objetivo": "Provar-se a bruxa mais forte (\"Rainha das Tempestades\") e acumular magia cada vez mais poderosa",
+    "comoEDerrotada": "Sofre reveses ao longo da série (como ter suas tempestades dispersadas por Musa) e é derrotada junto às irmãs nas convergências finais de cada temporada em que aparece",
+    "biografia": "Stormy é a mais jovem das Trix, expulsa de Torre Nublada por tentar roubar a Chama do Dragão junto com Icy e Darcy. Sua magia de tempestades é a mais destrutiva e imprevisível do trio, refletindo seu temperamento explosivo e sua abordagem pouco estratégica em comparação às irmãs.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/3/3d/Stormy_S8.png/revision/latest",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/4/48/Trix_S8.jpeg/revision/latest"
+  },
+  {
+    "id": "8b55cd85-e6ba-434d-b87b-c38cd21fa0a7",
+    "nome": "Lord Darkar",
+    "grupo": null,
+    "tipo": "Entidade ancestral / monstro (também chamado Fênix das Sombras)",
+    "origem": "Nascido no vazio anterior ao início do universo; oposto polar do Grande Dragão",
+    "poderes": [
+      "Manipulação de sombras (umbracinese)",
+      "Magia negra e projeção de energia",
+      "Metamorfose (fênix, cobra, forma humana)",
+      "Criação e controle de sombras/minions",
+      "Absorção passiva de energia",
+      "Clarividência através de seu manto",
+      "Barreiras de energia e esferas de confinamento"
+    ],
+    "personalidade": [
+      "Tirânico e autoritário",
+      "Personificação do mal absoluto",
+      "Exige servidão total dos capangas",
+      "Disposto a trair aliados por mais poder"
+    ],
+    "temporadas": [
+      "2",
+      "3 (participação)",
+      "4 (participação)",
+      "5 (menção em trailer)"
+    ],
+    "objetivo": "Obter o Poder Supremo da dimensão de Relix para dominar todo o universo, absorvendo toda a energia e luz existentes",
+    "comoEDerrotada": "Derrotado pelas Winx, fortalecidas pela transformação Enchantix e pelo poder supremo de Relix, ao final da 2ª temporada",
+    "biografia": "Lord Darkar orquestrou a destruição de Domino ao enviar as Bruxas Ancestrais atrás da Chama do Dragão. Foi mestre tanto das bruxas quanto de Valtor, causando eventos que se desdobram por várias temporadas. Escravizou as Trix por meio do Gloomix e corrompeu Bloom transformando-a em Dark Bloom antes de ser finalmente derrotado.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/c/ce/Lord_Darkar.png/revision/latest",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx-club-br/images/8/86/Darkar_nick_profile.jpg/revision/latest?cb=20130317201045"
+  },
+  {
+    "id": "cc20f850-468c-4272-b652-d507c3be98d8",
+    "nome": "Valtor",
+    "grupo": null,
+    "tipo": "Feiticeiro/demônio (pode assumir forma humana, de fauno ou gárgula demoníaca)",
+    "origem": "Formado a partir de uma centelha corrompida da Chama do Dragão, criado e treinado pelas Três Bruxas Ancestrais",
+    "poderes": [
+      "Absorção de magia de artefatos, pergaminhos e livros",
+      "Criação da \"Marca de Valtor\" para controlar ou fortalecer outros",
+      "Feitiços ilusórios e de trevas",
+      "Forma demoníaca com força e resistência mágica aumentadas",
+      "Combate físico avançado"
+    ],
+    "personalidade": [
+      "Cruel, inteligente e observador",
+      "Guarda rancores por décadas",
+      "Manipulador e mentiroso habilidoso",
+      "Demonstra admiração relutante pela resiliência de Bloom"
+    ],
+    "temporadas": [
+      "3",
+      "8"
+    ],
+    "objetivo": "Vingança contra Bloom por seus pais biológicos (Oritel e Marion) tê-lo derrotado e aprisionado na Dimensão Ômega; conquistar reinos e acumular poder mágico; na 8ª temporada, obter a Estrela dos Desejos",
+    "comoEDerrotada": "Na 3ª temporada é destruído por Bloom com pó de fada/poder da Chama do Dragão; na 8ª temporada, após se transformar em um monstro demoníaco gigante, é destruído quando as Winx recebem uma carga extra de energia cósmica da Estrela dos Desejos",
+    "biografia": "Outrora um poderoso feiticeiro aprisionado por séculos, Valtor escapa para perseguir vingança contra Bloom e sua família, conquistando mundos mágicos e roubando feitiços ao longo da 3ª temporada. Retorna como antagonista principal da 8ª temporada, recrutando as Trix de uma dimensão espaço-temporal para capturar Estrelas Primordiais e obter a Estrela dos Desejos.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/f/f9/Valtor_s3.png/revision/latest/scale-to-width-down/1000?cb=20190108235931",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx-club-br/images/5/58/Valtor_at_Ohm.png/revision/latest?cb=20130404094544"
+  },
+  {
+    "id": "6c39a638-ca07-4c1b-9225-b19a4f34174a",
+    "nome": "Bruxas Ancestrais (Três Ancestrais)",
+    "grupo": "Bruxas Ancestrais",
+    "tipo": "Bruxas ancestrais / espíritos sem corpo",
+    "origem": "Bruxas antigas cujos corpos foram consumidos pela maldade de Obsidian; segundo uma adaptação em romance francês, seus nomes seriam Belladonna (gelo), Lysslis/Liliss (trevas) e Tharma (tempestades)",
+    "poderes": [
+      "Magia ancestral extremamente poderosa",
+      "Capacidade de petrificar e congelar reinos inteiros",
+      "Amaldiçoar o poder de Sirenix",
+      "Criação/corrupção de seres como Valtor e Mandragora",
+      "Possessão e manipulação de outros seres"
+    ],
+    "personalidade": [
+      "Descritas como \"criaturas do mal absoluto\"",
+      "Implacáveis e antigas, sem remorso"
+    ],
+    "temporadas": [
+      "3 (origem revelada)",
+      "5 (filme The Secret of the Lost Kingdom)",
+      "6 (retorno)"
+    ],
+    "objetivo": "Obter o poder da Chama do Dragão e destruir toda a magia do bem no universo",
+    "comoEDerrotada": "Derrotadas pela Companhia da Luz no passado (ao atacar Domino) e, mais tarde, por uma convergência de poder Believix das Winx",
+    "biografia": "As Bruxas Ancestrais atacaram Domino em busca do poder da Chama do Dragão, congelando o reino e petrificando seus habitantes, mas foram derrotadas pela Companhia da Luz. Antes disso, invadiram o Oceano Infinito e amaldiçoaram o poder de Sirenix, transformando Daphne em um espírito incorpóreo. Criaram Valtor a partir de uma centelha corrompida da Chama do Dragão e, mais tarde, manipularam Mandragora para eliminar Bloom, sendo finalmente derrotadas pela transformação combinada das Winx.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/e/ed/1349963_1394049339909_full.jpg/revision/latest/scale-to-width-down/1000?cb=20151001135515&path-prefix=pt",
+    "bannerUrl": "https://preview.redd.it/something-about-the-ancestral-witches-in-the-magical-v0-c241fh16fkpf1.jpg?width=1080&crop=smart&auto=webp&s=f46810f1266901faca39cdda26fa2ef3a5e3db8c"
+  },
+  {
+    "id": "00344fcc-a071-4d78-bd56-6ec72cd74a28",
+    "nome": "Ogron",
+    "grupo": "Feiticeiros do Círculo Negro",
+    "tipo": "Feiticeiro",
+    "origem": "Não especificada nas fontes consultadas",
+    "poderes": [
+      "Absorção dos poderes de fadas",
+      "Combate físico e magia negra"
+    ],
+    "personalidade": null,
+    "temporadas": [
+      "4"
+    ],
+    "objetivo": "Capturar todas as Fadas da Terra e roubar seus poderes mágicos para dominar a Terra",
+    "comoEDerrotada": "Congelado pela Convergência Believix das Winx ao final da 4ª temporada, com destino final ambíguo (possivelmente permanece congelado na Dimensão Ômega)",
+    "biografia": "Ogron é o líder dos Feiticeiros do Círculo Negro, conhecido como o \"Feiticeiro da Absorção\", capaz de roubar poderes de fadas de forma semelhante a vilões anteriores como Darkar e Valtor. Junto com Anagan, Gantlos e Duman, usou o artefato Círculo Negro para dominar as fadas da Terra antes mesmo do início da 4ª temporada.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/9/9d/OgronEp415.png/revision/latest/scale-to-width-down/1000?cb=20190428031734",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/d/d7/Ogron.png/revision/latest/scale-to-width-down/1000?cb=20200413223601"
+  },
+  {
+    "id": "a1608e7d-cf02-4ee6-b2ea-2717c6c83e4a",
+    "nome": "Anagan",
+    "grupo": "Feiticeiros do Círculo Negro",
+    "tipo": "Feiticeiro",
+    "origem": "Não especificada nas fontes consultadas",
+    "poderes": [
+      "Supervelocidade",
+      "Combate físico e magia negra"
+    ],
+    "personalidade": null,
+    "temporadas": [
+      "4"
+    ],
+    "objetivo": "Capturar as Fadas da Terra e dominar o planeta ao lado de Ogron, Gantlos e Duman",
+    "comoEDerrotada": "Congelado pela Convergência Believix das Winx ao final da 4ª temporada",
+    "biografia": "Conhecido como o \"Feiticeiro da Supervelocidade\", Anagan é um dos quatro Feiticeiros do Círculo Negro, antagonistas principais da 4ª temporada, que caçavam fadas terrestres para roubar sua magia.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/4/46/Anagan.jpg/revision/latest?cb=20190502231521",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/3/39/AnaganWizardFormEp413.png/revision/latest/scale-to-width-down/1000?cb=20191229061801"
+  },
+  {
+    "id": "0f3041fc-8434-4a71-ba6a-693f0cfe5190",
+    "nome": "Gantlos",
+    "grupo": "Feiticeiros do Círculo Negro",
+    "tipo": "Feiticeiro",
+    "origem": "Não especificada nas fontes consultadas",
+    "poderes": [
+      "Magia de destruição",
+      "Combate físico"
+    ],
+    "personalidade": null,
+    "temporadas": [
+      "4"
+    ],
+    "objetivo": "Capturar as Fadas da Terra e dominar o planeta ao lado de Ogron, Anagan e Duman",
+    "comoEDerrotada": "Congelado pela Convergência Believix das Winx ao final da 4ª temporada",
+    "biografia": "Conhecido como o \"Feiticeiro da Destruição\", Gantlos integra o quarteto de vilões da 4ª temporada especializados em capturar e neutralizar fadas terrestres.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/9/95/Sun_Energy_Burst_3.PNG/revision/latest",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/3/39/Gantlos.jpg/revision/latest/scale-to-width-down/1000?cb=20190428032258"
+  },
+  {
+    "id": "dbb085ed-9b4a-4908-89d3-f49b91359cb4",
+    "nome": "Duman",
+    "grupo": "Feiticeiros do Círculo Negro",
+    "tipo": "Feiticeiro",
+    "origem": "Não especificada nas fontes consultadas",
+    "poderes": [
+      "Metamorfose (mudança de forma)",
+      "Combate físico"
+    ],
+    "personalidade": null,
+    "temporadas": [
+      "4"
+    ],
+    "objetivo": "Capturar as Fadas da Terra e dominar o planeta ao lado de Ogron, Anagan e Gantlos",
+    "comoEDerrotada": "Morto (\"killed\") dois episódios antes da derrota final de Ogron, Anagan e Gantlos",
+    "biografia": "Conhecido como o \"Feiticeiro da Metamorfose\", Duman é o único dos quatro Feiticeiros do Círculo Negro a ser eliminado antes do desfecho da 4ª temporada, diferente de seus companheiros, que são congelados na Convergência Believix.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/8/8e/Duman.jpg/revision/latest/scale-to-width-down/1000?cb=20190428032906",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/8/8c/Duman401-1.png/revision/latest/scale-to-width-down/1000?cb=20200814054919"
+  },
+  {
+    "id": "6451b3ab-acda-404c-b166-0cff07540de2",
+    "nome": "Tritannus",
+    "grupo": null,
+    "tipo": "Tritão (metamorfo)",
+    "origem": "Filho do Rei Netuno e da Rainha Ligea, de Andros; irmão do Príncipe Nereus e de Tressa; primo de Aisha",
+    "poderes": [
+      "Magia e combate com tridente",
+      "Absorção de poluição tóxica para ganhar forma monstruosa e poder ampliado",
+      "Drenar poderes das Selkies para abrir os Portões do Oceano",
+      "Mutação de criaturas com rajadas mágicas",
+      "Controle de construções feitas de óleo e lixo",
+      "Hidromancia (comunicação pela superfície da água)",
+      "Poder temporário do Trono do Imperador (banir seres e controlar marés)"
+    ],
+    "personalidade": [
+      "Extremamente ciumento do irmão Nereus",
+      "Implacável e obcecado por vingança",
+      "Cruel, inclusive com a própria família",
+      "Demonstra afeto genuíno apenas por Icy"
+    ],
+    "temporadas": [
+      "5"
+    ],
+    "objetivo": "Vingar-se da família por ter sido preterido como príncipe herdeiro; controlar o Oceano Infinito e governar como Imperador ao lado de Icy",
+    "comoEDerrotada": "Nereus destrói seu tridente, retirando-lhe o poder do Trono do Imperador; Tritannus retorna à forma de Tritão e é banido para o Esquecimento (Oblivion)",
+    "biografia": "Após uma tentativa fracassada de assassinar Nereus, Tritannus é aprisionado. Um vazamento de óleo o transforma em monstro, permitindo sua fuga com a ajuda das Trix. Ele caça sistematicamente as Selkies guardiãs para acessar o Oceano Infinito, mutando a própria família como forma de pressão. Chega a reivindicar o Trono do Imperador antes de ser finalmente derrotado pelas Winx.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx-club-br/images/f/f9/Tritannus.jpg/revision/latest?cb=20130402004413",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/3/3d/The-winx-club_202776_1.jpg/revision/latest/scale-to-width-down/1000?cb=20200626065920"
+  },
+  {
+    "id": "00b57892-75b4-4029-86c4-a463d13dd27b",
+    "nome": "Politea",
+    "grupo": null,
+    "tipo": "Ninfa amaldiçoada / monstro",
+    "origem": "Oceano Infinito",
+    "poderes": [
+      "Magia poderosa de ninfa",
+      "Hipnose (usada nas Trix e em Tritannus)",
+      "Manipulação e engano"
+    ],
+    "personalidade": [
+      "Manipuladora e traiçoeira",
+      "Finge cooperação enquanto persegue agenda própria"
+    ],
+    "temporadas": [
+      "Especial: The Mystery of the Abyss"
+    ],
+    "objetivo": "Recuperar a Pérola das Profundezas e reivindicar o Trono do Imperador para si mesma",
+    "comoEDerrotada": "Após trair as Trix e tentar tomar o trono, a Selkie Serena recupera a pérola e a entrega às Winx, que usam um feitiço de convergência para derrotar Politea",
+    "biografia": "Politea é uma ninfa encontrada pelas Trix quando tentam reivindicar o poder do Trono do Imperador no Oceano Infinito. Faz um acordo com o trio, prometendo ajudá-las a assumir o trono em troca da recuperação da Pérola das Profundezas, e as convence a ressuscitar Tritannus para localizar a pérola junto com Omnia. No fim, trai todos os envolvidos, mas é derrotada pelas Winx.",
+    "imagemUrl": "https://static.wikia.nocookie.net/oclubedaswinx/images/a/a9/Untitledp.png/revision/latest?cb=20161028000334&path-prefix=pt-br",
+    "bannerUrl": "https://static.wikia.nocookie.net/oclubedaswinx/images/0/02/Politea.png/revision/latest?cb=20151104213314&path-prefix=pt-br"
+  },
+  {
+    "id": "34140cd9-8ea5-4496-8b6e-04be38ccffc2",
+    "nome": "Mandragora",
+    "grupo": null,
+    "tipo": "Bruxa (Guardiã do Círculo de Obsidian)",
+    "origem": "Dimensão de Obsidian, corrompida pela escuridão do lugar",
+    "poderes": [
+      "Volucinese (manipulação de insetos)",
+      "Magia das trevas",
+      "Aprisionamento de inimigos em substância gelatinosa",
+      "Invocação de enxames de insetos",
+      "Controle mental através de picadas de inseto",
+      "Voo e feitiços básicos de bruxa"
+    ],
+    "personalidade": [
+      "Leal às Bruxas Ancestrais",
+      "Odeia fadas",
+      "Manipuladora e combativa"
+    ],
+    "temporadas": [
+      "Filme: The Secret of the Lost Kingdom (5ª temporada)"
+    ],
+    "objetivo": "A pedido das Bruxas Ancestrais, localizar e destruir a portadora da Chama do Dragão (Bloom) para libertá-las de Obsidian",
+    "comoEDerrotada": "Sky perfura seu corpo possuído com a Espada de Oritel enquanto Bloom lança um feitiço de ataque simultâneo, matando-a e, inadvertidamente, libertando as Bruxas Ancestrais",
+    "biografia": "Antiga guardiã do portal de Obsidian, Mandragora foi corrompida pela escuridão da dimensão. Empoderada pelas Bruxas Ancestrais para escapar de Obsidian, ela persegue Bloom, chegando a controlar Riven e atacar Alfea antes de ser derrotada.",
+    "imagemUrl": "https://static.wikia.nocookie.net/oclubedaswinx/images/d/d8/MandragoraESRP.jpg/revision/latest/scale-to-width-down/300?cb=20150219172800&path-prefix=pt-br",
+    "bannerUrl": "https://static.wikia.nocookie.net/oclubedaswinx/images/5/52/~Mandragora~.png/revision/latest?cb=20150220040700&path-prefix=pt-br"
+  },
+  {
+    "id": "fa9ab8fe-194d-49d3-a837-207ce64e260e",
+    "nome": "Selina",
+    "grupo": null,
+    "tipo": "Ex-bruxa / fada (originalmente)",
+    "origem": "Gardenia, Terra",
+    "poderes": [
+      "Manipulação de cobras (como bruxa)",
+      "Controle do Legendarium (trazer criaturas lendárias à vida)",
+      "Magia floral",
+      "Telecinese",
+      "Feixes de energia",
+      "Levitação e escudos",
+      "Magia negra (enquanto vilã)"
+    ],
+    "personalidade": [
+      "Inteligente e ambiciosa, com sede de poder e conhecimento (enquanto vilã)",
+      "Orgulhosa e leal ao Legendarium",
+      "Traiçoeira quando seus interesses não são atendidos",
+      "Após a redenção: gentil, arrependida, cuidadosa, leal, corajosa e compassiva"
+    ],
+    "temporadas": [
+      "6"
+    ],
+    "objetivo": "Buscar mais poder mágico do que sua mentora Eldora oferecia, libertando a entidade das trevas Acheron na crença de que ele a tornaria mais poderosa; usa as Trix como peões",
+    "comoEDerrotada": "As Winx fecham o Legendarium permanentemente, forçando Selina a renunciar à magia negra e retornar à sua forma de fada",
+    "biografia": "Amiga de infância de Bloom na Terra, Selina ingressa em Torre Nublada na 6ª temporada como Guardiã do Legendarium. Orquestra eventos para libertar Acheron enquanto manipula as Trix, mas acaba se redimindo ao trancar o livro mágico para sempre, tornando-se aprendiz de Eldora e recuperando sua natureza de fada.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/1/11/Selina_(Artwork).png/revision/latest",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx-clubbrasil/images/1/1d/GsfpP_plv_g.jpg/revision/latest/scale-to-width-down/1000?cb=20160714140517&path-prefix=pt-br"
+  },
+  {
+    "id": "8a76155c-27d0-40d9-8e79-7dce1ddd03a6",
+    "nome": "Acheron",
+    "grupo": null,
+    "tipo": "Feiticeiro poderoso, aprisionado no Legendarium",
+    "origem": null,
+    "poderes": [
+      "Magia extremamente poderosa, superior à de bruxas comuns",
+      "Uso da Chama do Dragão roubada para dominar a magia do Legendarium",
+      "Manipulação e controle sobre seguidores (como Selina)"
+    ],
+    "personalidade": [
+      "Manipulador e traiçoeiro, mesmo com aliados próximos como Selina"
+    ],
+    "temporadas": [
+      "6"
+    ],
+    "objetivo": "Escapar do aprisionamento no Legendarium e dominar a magia de toda a dimensão usando a Chama do Dragão",
+    "comoEDerrotada": "Bloom o aprisiona na Caixa do Infinito (Infinity Box)",
+    "biografia": "Acheron é um feiticeiro supremamente poderoso, selado dentro do mundo do Legendarium. Manipula Selina, fazendo-a acreditar em sua lealdade, mas a trai assim que consegue se libertar, tentando dominar toda a magia da dimensão com a Chama do Dragão antes de ser finalmente aprisionado por Bloom.",
+    "imagemUrl": "https://static.wikia.nocookie.net/oclubedaswinx/images/6/66/Acheron.jpg/revision/latest?cb=20150603231112&path-prefix=pt-br",
+    "bannerUrl": "https://i.redd.it/acheron-from-winx-club-v0-lrb6g8kpgmtg1.jpg?width=1280&format=pjpg&auto=webp&s=753dacc6e0f4c5e65ab4cddf80d19f07fb4c0cfd"
+  },
+  {
+    "id": "2896c0b1-f2ed-48ba-8466-5391f6982ae6",
+    "nome": "Kalshara",
+    "grupo": "Kalshara e Brafilius",
+    "tipo": "Metamorfa",
+    "origem": null,
+    "poderes": [
+      "Metamorfose (mudança de forma)",
+      "Liderança e estratégia"
+    ],
+    "personalidade": [
+      "Astuta e articuladora, líder do esquema com o irmão Brafilius"
+    ],
+    "temporadas": [
+      "7"
+    ],
+    "objetivo": "Capturar todos os Animais Fadas para obter seu poder combinado",
+    "comoEDerrotada": "Derrotada no episódio final da 7ª temporada pelas próprias criaturas da caverna, que se voltam contra ela e Brafilius",
+    "biografia": "Kalshara é a principal vilã da 7ª temporada, uma metamorfa que lidera seu irmão desastrado Brafilius em um plano para capturar todos os Animais Fadas mágicos e absorver seu poder coletivo. O plano fracassa quando as próprias criaturas se rebelam contra a dupla.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/9/9b/Kalshara.jpg/revision/latest/scale-to-width-down/1000?cb=20170521113059",
+    "bannerUrl": "https://i.redd.it/gucok7yfwxmg1.jpg"
+  },
+  {
+    "id": "8efeee17-a4d4-4465-8b1e-6c3f44a5835c",
+    "nome": "Brafilius",
+    "grupo": "Kalshara e Brafilius",
+    "tipo": "Feiticeiro (irmão de Kalshara)",
+    "origem": null,
+    "poderes": null,
+    "personalidade": [
+      "Desastrado e atrapalhado, subordinado à irmã Kalshara"
+    ],
+    "temporadas": [
+      "7"
+    ],
+    "objetivo": "Ajudar Kalshara a capturar todos os Animais Fadas para obter seu poder",
+    "comoEDerrotada": "Derrotado junto com Kalshara no episódio final da 7ª temporada pelas criaturas da caverna",
+    "biografia": "Brafilius é o irmão desajeitado de Kalshara, vilã principal da 7ª temporada. Atua como cúmplice dela no plano de capturar os Animais Fadas do Reino Mágico, mas o esquema termina em fracasso para ambos.",
+    "imagemUrl": "https://i.pinimg.com/736x/33/80/32/33803217b0c7e4e29172030aa78e27f3.jpg",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9TvJKhTgvEwnv67mBEifYb8buk8TAMWt0XjmsPTl9A&s=10"
+  },
+  {
+    "id": "f1a20ebb-67c8-4e48-92ae-be48c7597c0e",
+    "nome": "Rei Argen / Obscurum",
+    "grupo": null,
+    "tipo": "Habitante de Lumenia corrompido em vilão por Valtor",
+    "origem": "Lumenia; irmão da Rainha Dorana e segundo na linha de sucessão ao trono",
+    "poderes": [
+      "Criação de portais roxos escuros para qualquer localidade",
+      "Disparo de feixes de energia roxo-escuros",
+      "Distração fácil por música (fraqueza notável)"
+    ],
+    "personalidade": [
+      "Como Obscurum: rude, egoísta e vaidoso",
+      "Como Argen: bem-humorado e divertido"
+    ],
+    "temporadas": [
+      "8"
+    ],
+    "objetivo": "Depor sua irmã, a Rainha Dorana, motivado pelo ciúme de receber menos amor e respeito dos súditos apesar de ser o segundo na linha sucessória",
+    "comoEDerrotada": "Derrotado junto com Valtor no confronto final da 8ª temporada (detalhes específicos não confirmados nas fontes consultadas)",
+    "biografia": "Após entrar em contato com a essência de Valtor nas florestas de Lumenia, Argen a canaliza para uma forma física. Em troca de lealdade e poder, Valtor o transforma em Obscurum, seu braço direito na 8ª temporada, liderando criaturas \"staryummies\" que drenam o núcleo mágico das estrelas e abrindo portais das trevas.",
+    "imagemUrl": null,
+    "bannerUrl": null
+  },
+  {
+    "id": "8fe487d8-ad13-44aa-9acc-112b1bd3d5c1",
+    "nome": "Knut",
+    "grupo": null,
+    "tipo": "Ogro",
+    "origem": "Não especificada; capanga a serviço das Trix",
+    "poderes": [
+      "Força física considerável",
+      "Combate corpo a corpo"
+    ],
+    "personalidade": [
+      "Rude e desajeitado, porém leal a quem serve"
+    ],
+    "temporadas": [
+      "1",
+      "2 (posteriormente reformado)"
+    ],
+    "objetivo": "Servir como capanga das Trix na 1ª temporada, executando tarefas e ataques a mando delas",
+    "comoEDerrotada": "Derrotado/afastado pelas Winx durante a 1ª temporada; posteriormente reformado, passando a trabalhar como zelador em Alfea",
+    "biografia": "Knut é um ogro que atua como capanga das Trix durante a 1ª temporada, ajudando-as em seus planos contra as Winx. Após a derrota do trio, é readmitido de forma inusitada como zelador em Alfea, deixando de ser uma ameaça.",
+    "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2tIZ8KrSRJ7rVeFkw5uouBeEQNbUOT-4B_9uLwk6UVQ&s=10",
+    "bannerUrl": "https://static.wikia.nocookie.net/oclubedaswinx/images/0/04/Knut.png/revision/latest?cb=20150603153232&path-prefix=pt-br"
+  }
+]

@@ -1,0 +1,1158 @@
+[
+  {
+    "numero": 1,
+    "anoEstreia": 2004,
+    "totalEpisodios": 26,
+    "sinopse": "Bloom, uma garota comum de 16 anos da Terra, descobre que possui poderes mágicos e ingressa em Alfea, o Colégio para Fadas, onde conhece Stella, Flora, Tecna e Musa. Juntas formam o Clube das Winx e enfrentam as bruxas de Torre Nuvem, especialmente o trio de jovens bruxas conhecido como Trix, além do Exército da Decadência (Sombra), enquanto Bloom começa a investigar as origens de seus misteriosos poderes ligados à Chama do Dragão.",
+    "transformacaoIntroduzida": "Nenhuma transformação nomeada além da forma básica de fada (Winx); a série introduz o grupo e seus poderes elementares.",
+    "principaisViloes": [
+      "Trix (Icy, Darcy e Stormy)",
+      "Exército da Decadência (Sombra)"
+    ],
+    "bannerUrl": "https://images.justwatch.com/poster/239576330/s718/temporada-1.jpg",
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "An Unexpected Event / It Feels Like Magic",
+        "sinopse": "Bloom, uma garota comum de 16 anos que vive na Terra, encontra uma fada em perigo e descobre que tem poderes mágicos."
+      },
+      {
+        "numero": 2,
+        "titulo": "Welcome to Magix! / More Than High School",
+        "sinopse": "Bloom chega a Alfea sob uma identidade assumida como aluna nova."
+      },
+      {
+        "numero": 3,
+        "titulo": "Alfea College for Fairies / Save the First Dance",
+        "sinopse": "Alfea e a escola vizinha de rapazes, Fonte Vermelha, se preparam para um baile."
+      },
+      {
+        "numero": 4,
+        "titulo": "The Black-Mud Swamp / The Voice of Nature",
+        "sinopse": "Excursão de campo por um pântano perigoso durante a aula do professor Palladium."
+      },
+      {
+        "numero": 5,
+        "titulo": "Date with Disaster",
+        "sinopse": "Stella recebe um convite de encontro do príncipe Sky enquanto está de serviço na cozinha."
+      },
+      {
+        "numero": 6,
+        "titulo": "Mission at Cloudtower / Secret Guardian",
+        "sinopse": "Bloom pesquisa o Anel de Solária, na esperança de encontrar pistas sobre seu passado."
+      },
+      {
+        "numero": 7,
+        "titulo": "Friends in Need / Grounded",
+        "sinopse": "As Winx perdem todos os seus poderes como punição por invadirem Torre Nuvem."
+      },
+      {
+        "numero": 8,
+        "titulo": "A Friendship Sundered / The Day of the Rose",
+        "sinopse": "Durante o Festival da Rosa, Bloom e Riven caem em uma armadilha."
+      },
+      {
+        "numero": 9,
+        "titulo": "Betrayed! / Spelled",
+        "sinopse": "Surge um conflito interno entre as Winx devido a tensões e às preocupações de Musa."
+      },
+      {
+        "numero": 10,
+        "titulo": "Bloom Tested / Magical Reality Check",
+        "sinopse": "Teste mágico de meio de período de Bloom em uma máquina de realidade virtual; os Trix interferem."
+      },
+      {
+        "numero": 11,
+        "titulo": "The Monster and The Willow / Junior League",
+        "sinopse": "Flora estuda plantas com um monstro-salgueiro; Stella enfrenta as consequências de suas escolhas."
+      },
+      {
+        "numero": 12,
+        "titulo": "Miss Magix",
+        "sinopse": "Stella participa de um concurso de beleza; Lucy, de Torre Nuvem, também compete."
+      },
+      {
+        "numero": 13,
+        "titulo": "A Great Secret Revealed / Meant to Be",
+        "sinopse": "Durante as férias de primavera, Bloom descobre novas habilidades e segredos sobre seu passado."
+      },
+      {
+        "numero": 14,
+        "titulo": "Bloom's Dark Secret / Witch Trap",
+        "sinopse": "A curiosidade de Bloom sobre seu passado e seus poderes mágicos começa a causar problemas."
+      },
+      {
+        "numero": 15,
+        "titulo": "Honor Above All / Pushing the Envelope",
+        "sinopse": "Um teste iminente do professor Wizgiz preocupa as Winx."
+      },
+      {
+        "numero": 16,
+        "titulo": "Cold Spell / The Nightmare Monster",
+        "sinopse": "Os Trix tentam dominar a Chama do Dragão usando um monstro dos pesadelos."
+      },
+      {
+        "numero": 17,
+        "titulo": "Secrets Within Secrets / Royal Heartbreak",
+        "sinopse": "A princesa Diaspro aparece nas festividades de Fonte Vermelha, causando ciúmes."
+      },
+      {
+        "numero": 18,
+        "titulo": "The Font of Dragon Fire / Senior Witches Go to Earth",
+        "sinopse": "Bloom retorna à Terra; os Trix a perseguem até lá."
+      },
+      {
+        "numero": 19,
+        "titulo": "The Fall of Magix / The Army of Decay",
+        "sinopse": "Bloom retorna a Alfea; os Trix assumem o controle do reino mágico com o Exército da Decadência."
+      },
+      {
+        "numero": 20,
+        "titulo": "Mission to Domino / Sparks of Hope",
+        "sinopse": "As Winx viajam ao planeta Dômino para conter a magia dos Trix."
+      },
+      {
+        "numero": 21,
+        "titulo": "The Crown of Dreams / The Frozen Palace",
+        "sinopse": "As garotas enfrentam ataques durante a exploração de Dômino."
+      },
+      {
+        "numero": 22,
+        "titulo": "Storming Cloudtower / Mission to Cloud Tower",
+        "sinopse": "O Exército da Decadência recua; as Winx partem para atacar Torre Nuvem."
+      },
+      {
+        "numero": 23,
+        "titulo": "Power Play / The Search for the Flame",
+        "sinopse": "Os Trix atormentam as Winx sobre a localização da Chama do Dragão."
+      },
+      {
+        "numero": 24,
+        "titulo": "The Witches' Siege / Battle for Alfea",
+        "sinopse": "O Exército da Decadência ataca Alfea; Bloom recebe orientação junto ao lago."
+      },
+      {
+        "numero": 25,
+        "titulo": "The Ultimate Challenge / The Great Witch Invasion",
+        "sinopse": "O primeiro ataque falha; Bloom segue o espírito fantasma de sua irmã."
+      },
+      {
+        "numero": 26,
+        "titulo": "The Witches' Downfall / Fire and Ice",
+        "sinopse": "Confronto final quando o Exército se aproxima de Alfea e os Trix buscam a Chama do Dragão."
+      }
+    ]
+  },
+  {
+    "numero": 2,
+    "anoEstreia": 2005,
+    "totalEpisodios": 26,
+    "sinopse": "No segundo ano em Alfea, uma nova integrante, Aisha (Fada das Ondas), junta-se ao grupo, que passa a perseguir o Charmix, um aprimoramento de poder conquistado por meio de atos de amizade e caráter. O feiticeiro das trevas Lord Darkar liberta os Trix da prisão e os transforma em seus aliados, em busca das peças do Códex que dão acesso ao Reino de Relix e ao Poder Supremo.",
+    "transformacaoIntroduzida": "Charmix",
+    "principaisViloes": [
+      "Lord Darkar",
+      "Trix (agora com o poder Gloomix)"
+    ],
+    "bannerUrl": "https://images.justwatch.com/poster/10071468/s718/temporada-2.jpg",
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "The Shadow Phoenix / Back to School",
+        "sinopse": "As Winx voltam para o segundo ano em Alfea e conhecem Aisha, a Fada das Ondas, e sua pixie Piff."
+      },
+      {
+        "numero": 2,
+        "titulo": "Up to Their Old Trix / Princess of Tides",
+        "sinopse": "Aisha pede ajuda para resgatar pixies sequestradas; Lord Darkar liberta os Trix da prisão."
+      },
+      {
+        "numero": 3,
+        "titulo": "Rescue Mission / Into the Under Realm",
+        "sinopse": "Bloom, Stella e Aisha viajam ao Sub-Reino com os Especialistas para resgatar as pixies."
+      },
+      {
+        "numero": 4,
+        "titulo": "Princess Amentia / Queen of Perfection",
+        "sinopse": "Stella e Brandon encontram uma civilização subterrânea; Brandon é forçado a um casamento arranjado."
+      },
+      {
+        "numero": 5,
+        "titulo": "Magic Bonding / Rescuing the Pixies",
+        "sinopse": "Após um desabamento, o grupo procura rotas alternativas até a fortaleza de Darkar."
+      },
+      {
+        "numero": 6,
+        "titulo": "Runaway Groom / My Boyfriend's Wedding",
+        "sinopse": "O grupo viaja a Downland para impedir o casamento entre a princesa Amentia e Brandon."
+      },
+      {
+        "numero": 7,
+        "titulo": "The Mysterious Stone / The Dark Tower",
+        "sinopse": "Um monólito misterioso surge e drena a magia das garotas."
+      },
+      {
+        "numero": 8,
+        "titulo": "Party Crasher / Party Monster",
+        "sinopse": "Os Trix invadem uma festa em Fonte Vermelha disfarçadas de fadas; Flora conhece Helia."
+      },
+      {
+        "numero": 9,
+        "titulo": "Professor Avalon's Secret / The Angel of Doom",
+        "sinopse": "Tecna e Digit suspeitam que o professor Avalon é uma criatura disfarçada."
+      },
+      {
+        "numero": 10,
+        "titulo": "The Crypt of the Codex / Reaching for the Sky",
+        "sinopse": "Os Trix atacam Fonte Vermelha para capturar uma peça do Códex."
+      },
+      {
+        "numero": 11,
+        "titulo": "Race Against Time / Homesick",
+        "sinopse": "Darkar lança um feitiço de saudade nas pixies para atraí-las de volta à Vila das Pixies."
+      },
+      {
+        "numero": 12,
+        "titulo": "Winx Together! / Truth or Dare",
+        "sinopse": "Um Especialista corrompido sabota um teste; as Winx aprendem feitiços de convergência."
+      },
+      {
+        "numero": 13,
+        "titulo": "The Invisible Pixies / Gangs of Gardenia",
+        "sinopse": "Bloom, Stella, Musa e Aisha tiram uma folga na Terra e chamam a atenção de uma gangue local."
+      },
+      {
+        "numero": 14,
+        "titulo": "Battle on Planet Eraklyon / The Wrong Righters",
+        "sinopse": "O grupo visita Eraklyon, onde a ex-namorada de Sky, a princesa Diaspro, foi sequestrada."
+      },
+      {
+        "numero": 15,
+        "titulo": "The Show Must Go On! / Magic in My Heart",
+        "sinopse": "Musa se apresenta em Fonte Vermelha apesar da oposição do pai; Stormy ataca por vingança."
+      },
+      {
+        "numero": 16,
+        "titulo": "HalloWinx! / The Fourth Witch",
+        "sinopse": null
+      },
+      {
+        "numero": 17,
+        "titulo": "Twinning with the Witches / Exchange Students",
+        "sinopse": "As Winx vão a Torre Nuvem como alunas de intercâmbio, com Mirta, para proteger uma peça do Códex."
+      },
+      {
+        "numero": 18,
+        "titulo": "In the Heart of Cloud Tower / The Heart of Cloud Tower",
+        "sinopse": "Os Trix continuam atacando Torre Nuvem pela peça do Códex enquanto as Winx brigam entre si."
+      },
+      {
+        "numero": 19,
+        "titulo": "The Spy in the Shadows / Shadows in Bloom",
+        "sinopse": null
+      },
+      {
+        "numero": 20,
+        "titulo": "Pixie Village / The First Charmix",
+        "sinopse": "Durante um retiro de equipe, Bloom ganha o Charmix ao incentivar o trabalho em equipe."
+      },
+      {
+        "numero": 21,
+        "titulo": "Charmix Power / Trouble in Paradise",
+        "sinopse": "Os Trix caçam Bloom por sua Chama do Dragão; Stella, Musa e Aisha ganham o Charmix."
+      },
+      {
+        "numero": 22,
+        "titulo": "Danger in the Wildland / Last Resorts",
+        "sinopse": "Timmy cria um plano contra os Trix; Aisha e Tecna ganham o Charmix."
+      },
+      {
+        "numero": 23,
+        "titulo": "The Time for Truth / Darkness and Light",
+        "sinopse": "O professor Avalon escapa da fortaleza de Darkar; Flora ganha o Charmix e confessa seu amor a Helia."
+      },
+      {
+        "numero": 24,
+        "titulo": "Darkar's Prisoner / Desperately Seeking Bloom",
+        "sinopse": "O grupo vai ao Sub-Reino; Bloom cai sob o feitiço de Darkar e se transforma em Dark Bloom."
+      },
+      {
+        "numero": 25,
+        "titulo": "Face to Face with the Enemy / Storming Shadowhaunt",
+        "sinopse": "As Winx invadem a fortaleza de Darkar; os Trix perdem seu Gloomix e são banidos."
+      },
+      {
+        "numero": 26,
+        "titulo": "The Phoenix Revealed / The Ultimate Power Couple",
+        "sinopse": "No Reino de Relix, a declaração de amor de Sky liberta Bloom; as Winx unem seus Charmix para derrotar Darkar."
+      }
+    ]
+  },
+  {
+    "numero": 3,
+    "anoEstreia": 2007,
+    "totalEpisodios": 26,
+    "sinopse": "No terceiro e último ano em Alfea, as Winx buscam conquistar o Enchantix, a forma final de fada, que só pode ser obtida ao resgatar alguém do próprio planeta natal demonstrando coragem e autossacrifício. A trama gira em torno de Bloom investigando o paradeiro de seus pais biológicos e do surgimento de Valtor, um poderoso feiticeiro libertado da Dimensão Ômega com ligação trágica ao passado de Bloom e à destruição de Dômino, que se alia aos Trix e às Três Bruxas Ancestrais.",
+    "transformacaoIntroduzida": "Enchantix",
+    "principaisViloes": [
+      "Valtor",
+      "Trix (aliadas de Valtor)",
+      "As Três Bruxas Ancestrais"
+    ],
+    "bannerUrl": "https://images.justwatch.com/poster/10071474/s718/temporada-3.jpg",
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "The Princess' Ball",
+        "sinopse": "O rei Radius promove um baile; Stella tem uma surpresa chocante."
+      },
+      {
+        "numero": 2,
+        "titulo": "Valtor's Mark / Beauty is a Beast",
+        "sinopse": "O feiticeiro Valtor surge; acontecimentos inesperados na festa."
+      },
+      {
+        "numero": 3,
+        "titulo": "The Fairy and the Beast",
+        "sinopse": "As Winx ajudam Stella a escapar de Solária e buscam ajuda para quebrar um feitiço."
+      },
+      {
+        "numero": 4,
+        "titulo": "The Mirror of Truth",
+        "sinopse": "O grupo explora cavernas de gelo; Aisha enfrenta desafios."
+      },
+      {
+        "numero": 5,
+        "titulo": "The Sea of Fear",
+        "sinopse": "Missão para defender Andros; Stella permanece em Alfea."
+      },
+      {
+        "numero": 6,
+        "titulo": "Aisha's Choice",
+        "sinopse": "Viagem até a cidade submersa das sereias."
+      },
+      {
+        "numero": 7,
+        "titulo": "The Company of the Light / Heroes",
+        "sinopse": "Cinco integrantes retornam e enfrentam punição."
+      },
+      {
+        "numero": 8,
+        "titulo": "A Disloyal Adversary / Dark Sky",
+        "sinopse": "Diaspro, ajudada por Valtor, lança um ataque durante uma festa."
+      },
+      {
+        "numero": 9,
+        "titulo": "The Heart and The Sword",
+        "sinopse": "É elaborado um plano para entender o comportamento estranho de Sky."
+      },
+      {
+        "numero": 10,
+        "titulo": "Alfea Under Siege",
+        "sinopse": "Valtor conquista Torre Nuvem e controla as alunas bruxas."
+      },
+      {
+        "numero": 11,
+        "titulo": "A Trap for Fairies",
+        "sinopse": "Busca pela diretora Faragonda; encontro com Mirta."
+      },
+      {
+        "numero": 12,
+        "titulo": "The Black Willow's Tears",
+        "sinopse": "Visita a Linphea, o planeta de Flora, em busca de orientação."
+      },
+      {
+        "numero": 13,
+        "titulo": "One Last Fluttering of Wings",
+        "sinopse": "Valtor ameaça destruir o mundo natal de Aisha."
+      },
+      {
+        "numero": 14,
+        "titulo": "Fury! / Revenge!",
+        "sinopse": "Cinco Winx confrontam Valtor pela perda de Tecna."
+      },
+      {
+        "numero": 15,
+        "titulo": "The Island of Dragons",
+        "sinopse": "Bloom chega a Pyros e encontra dragões."
+      },
+      {
+        "numero": 16,
+        "titulo": "From the Ashes",
+        "sinopse": "Bloom conhece a feiticeira Maya em Pyros."
+      },
+      {
+        "numero": 17,
+        "titulo": "In the Snake's Lair",
+        "sinopse": "Bloom e Sky se reconciliam; tentativa de resgatar Tecna."
+      },
+      {
+        "numero": 18,
+        "titulo": "Valtor's Box",
+        "sinopse": "O Enchantix de Bloom permanece perigosamente incompleto durante o treinamento."
+      },
+      {
+        "numero": 19,
+        "titulo": "At the Last Moment",
+        "sinopse": "A condessa Cassandra anuncia planos de se casar com o rei Radius, pai de Stella."
+      },
+      {
+        "numero": 20,
+        "titulo": "The Pixies' Charge",
+        "sinopse": "As pixies defendem sua vila durante a ausência das Winx."
+      },
+      {
+        "numero": 21,
+        "titulo": "The Red Tower",
+        "sinopse": "É iniciada uma estratégia para enfraquecer e derrotar Valtor."
+      },
+      {
+        "numero": 22,
+        "titulo": "The Crystal Labyrinth",
+        "sinopse": "Busca pelas Estrelas d'Água necessárias para derrotar Valtor."
+      },
+      {
+        "numero": 23,
+        "titulo": "The Wizards' Challenge",
+        "sinopse": "Valtor duela contra Faragonda, Saladin e Griffin."
+      },
+      {
+        "numero": 24,
+        "titulo": "Witches' Revelation",
+        "sinopse": "Busca pelas criptas de Torre Nuvem; contato com as Bruxas Ancestrais."
+      },
+      {
+        "numero": 25,
+        "titulo": "Wizard's Anger",
+        "sinopse": "Valtor se transforma em demônio e libera um feitiço elemental devastador."
+      },
+      {
+        "numero": 26,
+        "titulo": "A New Beginning",
+        "sinopse": "Valtor sobrevive e captura os namorados das garotas."
+      }
+    ]
+  },
+  {
+    "numero": 4,
+    "anoEstreia": 2009,
+    "totalEpisodios": 26,
+    "sinopse": "As Winx viajam à Terra para proteger a última fada terrestre remanescente, Roxy, dos Feiticeiros do Círculo Negro (Ogron, Gantlos, Anagan e Duman), que roubaram a magia do planeta. Nessa jornada, as garotas evoluem seus poderes para o Believix e depois conquistam níveis adicionais de transformação por meio dos Presentes do Destino, concedidos pelas Fadas Etéreas, enquanto também enfrentam a guerreira Nebula.",
+    "transformacaoIntroduzida": "Believix (com os Presentes do Destino: Sophix e o Presente Negro/Lovix)",
+    "principaisViloes": [
+      "Feiticeiros do Círculo Negro (Ogron, Gantlos, Anagan, Duman)",
+      "Nebula"
+    ],
+    "bannerUrl": "https://images.justwatch.com/poster/10071480/s718/temporada-4.jpg",
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "The Fairy Hunters / The Wizards of the Black Circle",
+        "sinopse": "As Winx descobrem que precisam do Believix para enfrentar uma nova ameaça; a nova aluna Clarice causa conflito."
+      },
+      {
+        "numero": 2,
+        "titulo": "The Tree of Life / Fear in Pixie Village",
+        "sinopse": "Os Feiticeiros roubaram a magia da Terra; as Winx sabem da última fada terrestre e viajam via Árvore da Vida."
+      },
+      {
+        "numero": 3,
+        "titulo": "The Last Fairy on Earth / Winx on Earth",
+        "sinopse": "As Winx chegam a Gardenia; os pais de Bloom ajudam a abrir a loja Love & Pet."
+      },
+      {
+        "numero": 4,
+        "titulo": "Love & Pet / Magic Pets",
+        "sinopse": "A loja faz sucesso; os Feiticeiros chegam à Terra em busca da fada; Sky conhece o amigo de Bloom, Andy."
+      },
+      {
+        "numero": 5,
+        "titulo": "Mitzi's Present / Ogron's Spell",
+        "sinopse": "Os Feiticeiros enfeitiçam os bichinhos da loja; Mitzi desenvolve uma queda por Brandon."
+      },
+      {
+        "numero": 6,
+        "titulo": "A Fairy in Danger / A Fairy Found",
+        "sinopse": "As Winx e os Feiticeiros descobrem que Roxy é a última fada da Terra."
+      },
+      {
+        "numero": 7,
+        "titulo": "Winx Believix / I Believe In You",
+        "sinopse": "Roxy ajuda as Winx a conquistarem o Believix; uma voz misteriosa incentiva Roxy a aceitar seu destino."
+      },
+      {
+        "numero": 8,
+        "titulo": "The White Circle / Hidden in the Country",
+        "sinopse": "As Winx descobrem o artefato Círculo Branco em uma fazenda."
+      },
+      {
+        "numero": 9,
+        "titulo": "Nebula / Nebula's White Circle",
+        "sinopse": "Roxy é possuída pela fada terrestre Nebula; Musa recebe uma proposta de audição."
+      },
+      {
+        "numero": 10,
+        "titulo": "Musa's Song / The Audition",
+        "sinopse": "Jason oferece um contrato de gravação a Musa; Riven fica com ciúmes."
+      },
+      {
+        "numero": 11,
+        "titulo": "Winx Club Forever! / Superheroes",
+        "sinopse": "As Winx enfrentam assaltantes de banco em um shopping; os poderes de Roxy se fortalecem."
+      },
+      {
+        "numero": 12,
+        "titulo": "Dad! I'm a Fairy! / The Pets' Pursuit",
+        "sinopse": "Os Feiticeiros sequestram o pai de Roxy; ela se transforma em fada para resgatá-lo."
+      },
+      {
+        "numero": 13,
+        "titulo": "The Wizards' Attack / Roxy's Energy",
+        "sinopse": "Roxy é testada pelos Feiticeiros; Bloom os derrota com a energia da Chama do Dragão."
+      },
+      {
+        "numero": 14,
+        "titulo": "7: The Perfect Number / Bringing Magic Back",
+        "sinopse": "As Winx e Roxy lidam com a nova fama enquanto impedem contrabandistas de animais."
+      },
+      {
+        "numero": 15,
+        "titulo": "Magic Lessons / The New Witch in Town",
+        "sinopse": "Os Feiticeiros transformam Mitzi e amigas em fadas sombrias para gerar ódio contra as fadas."
+      },
+      {
+        "numero": 16,
+        "titulo": "A Virtual World / A Virtual Hideout",
+        "sinopse": "Tecna cria um mundo virtual para esconder o Círculo Branco."
+      },
+      {
+        "numero": 17,
+        "titulo": "The Enchanted Island / Island Tricks",
+        "sinopse": "As Winx viajam a uma ilha encantada."
+      },
+      {
+        "numero": 18,
+        "titulo": "The Nature Rage / Diana's Attack",
+        "sinopse": "A fada terrestre Diana transforma Gardenia em selva; os Especialistas são sequestrados."
+      },
+      {
+        "numero": 19,
+        "titulo": "In Diana's Kingdom / In the Amazon Forest",
+        "sinopse": "As Fadas Etéreas concedem o primeiro Presente do Destino: o Sophix."
+      },
+      {
+        "numero": 20,
+        "titulo": "The Gifts of Destiny / Diana's Redemption",
+        "sinopse": "A equipe invade a fortaleza de Diana e a convence a encerrar o feitiço da selva."
+      },
+      {
+        "numero": 21,
+        "titulo": "Sibylla's Cave / The Fairy of Justice",
+        "sinopse": "As Winx se aliam aos Caçadores de Fadas para ajudar Duman, que está doente."
+      },
+      {
+        "numero": 22,
+        "titulo": "The Frozen Tower / Aurora's Tower",
+        "sinopse": "Aurora, Fada do Norte, congela a Terra, ameaçando uma nova era glacial."
+      },
+      {
+        "numero": 23,
+        "titulo": "Bloom's Trial / Bloom's Challenge",
+        "sinopse": "Bloom enfrenta Nebula e vence; as Winx recebem o terceiro Presente do Destino, o Presente Negro."
+      },
+      {
+        "numero": 24,
+        "titulo": "The Day of Justice / The Wizard's Trap",
+        "sinopse": "Batalha em Tir Nan Og; Duman trai o grupo; Nabu se sacrifica; Aisha usa o Presente Negro, mas é roubada."
+      },
+      {
+        "numero": 25,
+        "titulo": "Morgana's Secrets / Home at Last",
+        "sinopse": "Nebula derruba Morgana; Roxy descobre ser filha de Morgana; as Winx enfrentam Aisha e o exército."
+      },
+      {
+        "numero": 26,
+        "titulo": "Ice and Fire / Duel in the Omega Dimension",
+        "sinopse": "As sete fadas derrotam os Feiticeiros com um feitiço de convergência; Nebula é proclamada rainha das fadas terrestres."
+      }
+    ]
+  },
+  {
+    "numero": 5,
+    "anoEstreia": 2012,
+    "totalEpisodios": 26,
+    "sinopse": "As Winx voltam a ser alunas em Alfea e enfrentam uma ameaça vinda do fundo do mar: Tritannus, um monstro mutante gerado pela poluição que busca se tornar imperador do Oceano Infinito e se alia aos Trix (cuja líder, Icy, se apaixona por ele). Como o Believix não funciona debaixo d'água, as fadas precisam conquistar o antigo poder Sirenix, passando antes pela transformação intermediária Harmonix.",
+    "transformacaoIntroduzida": "Sirenix (com a transformação intermediária Harmonix)",
+    "principaisViloes": [
+      "Tritannus",
+      "Trix (Icy, Darcy e Stormy)"
+    ],
+    "bannerUrl": "https://images.justwatch.com/poster/10071477/s718/temporada-5.jpg",
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "The Spill",
+        "sinopse": "O rei Netuno escolhe Nereus como herdeiro; Tritannus ataca e é aprisionado; um vazamento de petróleo ameaça trabalhadores resgatados pelas Winx."
+      },
+      {
+        "numero": 2,
+        "titulo": "The Rise of Tritannus",
+        "sinopse": "Tritannus escapa da prisão após absorver poluição, transformando-se em um monstro demoníaco."
+      },
+      {
+        "numero": 3,
+        "titulo": "Return to Alfea",
+        "sinopse": "A diretora Faragonda orienta as Winx a buscarem o poder Sirenix; Daphne revela onde está o Livro do Sirenix."
+      },
+      {
+        "numero": 4,
+        "titulo": "The Sirenix Book",
+        "sinopse": "O celular sabotado de Tecna a transforma em robô; as Winx recuperam o Livro do Sirenix."
+      },
+      {
+        "numero": 5,
+        "titulo": "The Lilo",
+        "sinopse": "As Winx procuram uma planta mágica chamada Lilo em Gardenia enquanto os Trix também a perseguem."
+      },
+      {
+        "numero": 6,
+        "titulo": "The Power of Harmonix",
+        "sinopse": "As Winx competem em Graynor e recebem a transformação Harmonix da diretora Faragonda."
+      },
+      {
+        "numero": 7,
+        "titulo": "The Shimmering Shells",
+        "sinopse": "Aisha, Stella e Flora procuram nos oceanos de Solária a Gema da Autoconfiança."
+      },
+      {
+        "numero": 8,
+        "titulo": "Secret of the Ruby Reef",
+        "sinopse": "Tritannus invade o palácio do rei Netuno; Musa se une à guardiã Sonna para achar a Gema da Empatia."
+      },
+      {
+        "numero": 9,
+        "titulo": "The Gem of Empathy",
+        "sinopse": "Um feitiço transforma Stella em uma menina de três anos; Bloom, Tecna e Aisha recuperam a segunda gema em Zenith."
+      },
+      {
+        "numero": 10,
+        "titulo": "A Magix Christmas",
+        "sinopse": "Os Trix prendem as Winx em Alfea durante o Natal; Bloom usa a Chama do Dragão para derrotar dragões de gelo."
+      },
+      {
+        "numero": 11,
+        "titulo": "Trix Tricks",
+        "sinopse": "Os Trix armam scooters em Fonte Vermelha; Flora, Musa e Stella passam por um teste de coragem."
+      },
+      {
+        "numero": 12,
+        "titulo": "Test of Courage",
+        "sinopse": "As Winx buscam a terceira gema no oceano de Dômino; a memória de Sky retorna."
+      },
+      {
+        "numero": 13,
+        "titulo": "Sirenix",
+        "sinopse": "Os Trix roubam o Sirenix de Daphne e ganham o Dark Sirenix; as Winx reúnem as três gemas e entram no Oceano Infinito."
+      },
+      {
+        "numero": 14,
+        "titulo": "The Emperor's Throne",
+        "sinopse": "As Winx descobrem uma ilha de lixo; Aisha se desespera ao ver sua família real mutada no Oceano Infinito."
+      },
+      {
+        "numero": 15,
+        "titulo": "The Pillar of Light",
+        "sinopse": "Tritannus ativa o Trono do Imperador, mergulhando Magix na escuridão; Stella conquista seu feitiço Sirenix."
+      },
+      {
+        "numero": 16,
+        "titulo": "The Eclipse",
+        "sinopse": "Tritannus escapa com um selo; Aisha restaura Nereus e Tressa; Diaspro se torna assessora real de Sky."
+      },
+      {
+        "numero": 17,
+        "titulo": "Faraway Reflections",
+        "sinopse": "As Winx buscam o olho da inspiração; Tritannus transforma uma ilha de lixo em monstro que ameaça Gardenia."
+      },
+      {
+        "numero": 18,
+        "titulo": "The Devourer",
+        "sinopse": "Tritannus controla um peixe perigoso que ataca as sereias Selkies."
+      },
+      {
+        "numero": 19,
+        "titulo": "The Singing Whales",
+        "sinopse": "Tritannus rouba o selo do Pilar do Equilíbrio, desestabilizando todos os mundos."
+      },
+      {
+        "numero": 20,
+        "titulo": "The Problems of Love",
+        "sinopse": "Musa liberta as baleias cantoras com seu feitiço Sirenix; Diaspro sabota Bloom e Sky."
+      },
+      {
+        "numero": 21,
+        "titulo": "A Perfect Date",
+        "sinopse": "As Winx organizam um encontro para Tecna e Timmy enquanto perseguem o selo do Pilar do Controle."
+      },
+      {
+        "numero": 22,
+        "titulo": "Listen to Your Heart",
+        "sinopse": "A tecnologia falha por causa do ataque de Tritannus; Tecna conquista seu desejo Sirenix."
+      },
+      {
+        "numero": 23,
+        "titulo": "The Shark's Eye",
+        "sinopse": "Bloom descobre maldições ancestrais sobre Daphne e Politea; os Trix drenam o Sirenix de Politea."
+      },
+      {
+        "numero": 24,
+        "titulo": "Saving Paradise Bay",
+        "sinopse": "Tritannus polui a Baía Paraíso; as Winx encontram o Sopro do Oceano; Flora conquista seu desejo Sirenix."
+      },
+      {
+        "numero": 25,
+        "titulo": "Battle for the Infinite Ocean",
+        "sinopse": "Flora e Helia se reconciliam; Tritannus absorve a energia Sirenix de Aisha para ativar o Trono do Imperador."
+      },
+      {
+        "numero": 26,
+        "titulo": "The End of Tritannus",
+        "sinopse": "Tritannus perde o controle e se volta contra Icy; Bloom o derrota e faz seu desejo Sirenix, quebrando a maldição para sempre."
+      }
+    ]
+  },
+  {
+    "numero": 6,
+    "anoEstreia": 2014,
+    "totalEpisodios": 26,
+    "sinopse": "Os Trix se aliam a Selina, uma jovem bruxa da Terra e amiga de infância de Bloom, que liberta o Legendarium — um livro mágico repleto de mitos e lendas. Para trancá-lo definitivamente, as Winx precisam conquistar duas novas transformações, Bloomix e Mythix, e encontrar Eldora, a Fada Madrinha, enfrentando ainda o poderoso feiticeiro Acheron, aprisionado dentro do próprio Legendarium.",
+    "transformacaoIntroduzida": "Bloomix e Mythix",
+    "principaisViloes": [
+      "Trix (Icy, Darcy e Stormy)",
+      "Selina",
+      "Acheron"
+    ],
+    "bannerUrl": "https://images.justwatch.com/poster/34780717/s718/temporada-6.jpg",
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Inspiration of Sirenix",
+        "sinopse": "O povo celebra o retorno da princesa Daphne; as Winx a inspiram a recuperar a confiança e os poderes."
+      },
+      {
+        "numero": 2,
+        "titulo": "The Legendarium",
+        "sinopse": "Daphne se torna professora; Selina, uma bruxa caloura, apresenta o livro Legendarium; os Trix tomam Torre Nuvem."
+      },
+      {
+        "numero": 3,
+        "titulo": "The Flying School",
+        "sinopse": "As Winx viajam a Linphea; o Legendarium rouba seus poderes, exceto a Chama do Dragão de Bloom, que ela compartilha."
+      },
+      {
+        "numero": 4,
+        "titulo": "Bloomix Power",
+        "sinopse": "Lutando contra Treants em Linphea, Flora conquista sua transformação Bloomix."
+      },
+      {
+        "numero": 5,
+        "titulo": "The Golden Auditorium",
+        "sinopse": "Stella e Aisha ganham o Bloomix; Musa e Tecna conquistam o delas ao deter Duendes do Pandemônio."
+      },
+      {
+        "numero": 6,
+        "titulo": "Vortex of Flames",
+        "sinopse": "Bloom enfraquece após compartilhar sua Chama do Dragão; Diaspro planeja jogá-la no Vórtice sob o palácio de Dômino."
+      },
+      {
+        "numero": 7,
+        "titulo": "The Lost Library",
+        "sinopse": "O grupo vai à Terra em busca de formas de fechar o Legendarium e descobre a Biblioteca de Alexandria."
+      },
+      {
+        "numero": 8,
+        "titulo": "Attack of the Sphinx",
+        "sinopse": "As Winx derrotam múmias; Selina invoca a Esfinge; Bloom descobre que sua amiga de infância se juntou aos vilões."
+      },
+      {
+        "numero": 9,
+        "titulo": "Shrine of the Green Dragon",
+        "sinopse": "As Winx viajam ao Santuário do Dragão Verde, na China, em busca de informações sobre Eldora."
+      },
+      {
+        "numero": 10,
+        "titulo": "The Secret Greenhouse",
+        "sinopse": "Selina se infiltra em Alfea e engana Bloom; Griffin revela a verdadeira lealdade de Selina."
+      },
+      {
+        "numero": 11,
+        "titulo": "Broken Dreams",
+        "sinopse": "As Winx se desentendem sem Bloom; as pixies a resgatam no antigo playground de infância de Eldora, em Gardenia."
+      },
+      {
+        "numero": 12,
+        "titulo": "Shimmer in the Shadows",
+        "sinopse": "Selina envia vampiros e Filhos da Noite; Stella os derrota em um desfile de moda gótica."
+      },
+      {
+        "numero": 13,
+        "titulo": "The Fairy Godmother",
+        "sinopse": "As Winx conhecem Eldora, que explica seu passado com Selina; segue-se uma batalha com os Trix."
+      },
+      {
+        "numero": 14,
+        "titulo": "Mythix",
+        "sinopse": "As Winx vão a Tir Nan Og para obter o Mythix da rainha Nebula usando varinhas ancestrais; Selina absorve parte da Chama do Dragão de Bloom."
+      },
+      {
+        "numero": 15,
+        "titulo": "Mystery of Calavera",
+        "sinopse": "O grupo precisa encontrar uma esmeralda de fantasia dentro do Legendarium, em um navio pirata afundado."
+      },
+      {
+        "numero": 16,
+        "titulo": "Zombie Invasion",
+        "sinopse": "Winx e Trix lutam contra piratas zumbis dentro do Legendarium; Bloom encontra a esmeralda e escapa a tempo."
+      },
+      {
+        "numero": 17,
+        "titulo": "The Curse of Fearwood",
+        "sinopse": "No Canadá, o grupo busca a Lança de Prata; Icy congela o coração de Helia e o leva para o Legendarium."
+      },
+      {
+        "numero": 18,
+        "titulo": "The Magic Totem",
+        "sinopse": "Flora derrota Icy e resgata Helia e o totem, quebrando a maldição do lobisomem na cidade de Fearwood."
+      },
+      {
+        "numero": 19,
+        "titulo": "Queen for a Day",
+        "sinopse": "Stella se torna rainha de Solária por um dia; Darcy lança um manto de invisibilidade sobre Torre Nuvem."
+      },
+      {
+        "numero": 20,
+        "titulo": "Stella's Big Party",
+        "sinopse": "Darcy prende Stella em um labirinto do Legendarium; ela enfrenta um Minotauro antes de corrigir seus erros como rainha."
+      },
+      {
+        "numero": 21,
+        "titulo": "A Monster Crush",
+        "sinopse": "As Winx buscam tecnologia em Zenith para rastrear Torre Nuvem; o Monstro de Frankenstein se apaixona por Tecna."
+      },
+      {
+        "numero": 22,
+        "titulo": "The Music Cafe",
+        "sinopse": "Musa reabre o café de música abandonado de Alfea; o grupo protege a escola de Torre Nuvem voadora."
+      },
+      {
+        "numero": 23,
+        "titulo": "The Anthem",
+        "sinopse": "As Winx tentam trocar a Chave do Legendarium com Rumpelstiltskin pela voz roubada de Musa."
+      },
+      {
+        "numero": 24,
+        "titulo": "Legendary Duel",
+        "sinopse": "Ocorre um duelo entre Bloom e Selina; os Campeões de Alfea atacam enquanto Aisha entra na Floresta Sombria."
+      },
+      {
+        "numero": 25,
+        "titulo": "Acheron",
+        "sinopse": "Selina liberta Acheron, que a trai e envia os Trix para o Legendarium para sempre; Bloom prende Acheron na Caixa do Infinito."
+      },
+      {
+        "numero": 26,
+        "titulo": "Winx Forever",
+        "sinopse": "Bloom escapa do Legendarium com a chave; Selina o tranca permanentemente, reconcilia-se com Bloom e se torna aprendiz de Eldora."
+      }
+    ]
+  },
+  {
+    "numero": 7,
+    "anoEstreia": 2015,
+    "totalEpisodios": 26,
+    "sinopse": "As Winx cuidam do novo Parque Natural de Alfea e descobrem os Animais Fadados, criaturas mágicas cada uma com um talento especial ligado a um misterioso 'Poder Supremo'. A fada sombria Kalshara e seu servo Brafilius, aliados aos Trix, perseguem esses animais através do tempo e do espaço para roubar esse poder, obrigando as Winx a conquistarem as transformações Butterflix e, depois, Tynix.",
+    "transformacaoIntroduzida": "Butterflix e Tynix",
+    "principaisViloes": [
+      "Kalshara",
+      "Brafilius",
+      "Trix (Icy, Darcy e Stormy)"
+    ],
+    "bannerUrl": "https://images.justwatch.com/poster/294837733/s718/temporada-7.jpg",
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "The Alfea Natural Park",
+        "sinopse": "Faragonda mostra às garotas o Parque Natural de Alfea, criado para acolher animais fadados."
+      },
+      {
+        "numero": 2,
+        "titulo": "Young Fairies Grow Up",
+        "sinopse": "Faragonda fica preocupada, pois cada Animal Fadado tem um talento ou segredo especial."
+      },
+      {
+        "numero": 3,
+        "titulo": "Butterflix",
+        "sinopse": "História ancestral de Kalshara, descrita como uma fada de intenções sombrias."
+      },
+      {
+        "numero": 4,
+        "titulo": "The First Color of the Universe",
+        "sinopse": "As Winx e Roxy organizam a inauguração do Parque Natural de Alfea."
+      },
+      {
+        "numero": 5,
+        "titulo": "A Friend from the Past",
+        "sinopse": "Brafilius usa uma pedra roubada para viajar no tempo."
+      },
+      {
+        "numero": 6,
+        "titulo": "Adventure on Lynphea",
+        "sinopse": "Roxy alerta as Winx sobre lobos mágicos em Linphea."
+      },
+      {
+        "numero": 7,
+        "titulo": "Beware of the Wolf",
+        "sinopse": "Miele ajuda as Winx contra os lobos mágicos."
+      },
+      {
+        "numero": 8,
+        "titulo": "Back in the Middle Ages",
+        "sinopse": "As Winx tentam fazer amizade com Squonk e Amarok."
+      },
+      {
+        "numero": 9,
+        "titulo": "The Fairy Cat",
+        "sinopse": "O trovador Orlando ajuda a invocar o Gato de Penas (Quillcat)."
+      },
+      {
+        "numero": 10,
+        "titulo": "Winx Trapped!",
+        "sinopse": "Brafilius procura o Gato de Penas e seu Poder Supremo."
+      },
+      {
+        "numero": 11,
+        "titulo": "Mission in the Jungle",
+        "sinopse": "Tigres de Sumatra são ameaçados por caçadores metamorfos."
+      },
+      {
+        "numero": 12,
+        "titulo": "A Fairy Animal for Tecna",
+        "sinopse": "Brafilius trama no mundo tecno-mágico natal de Tecna."
+      },
+      {
+        "numero": 13,
+        "titulo": "The Unicorn's Secret",
+        "sinopse": "Bloom busca desesperadamente por seu Animal Fadado."
+      },
+      {
+        "numero": 14,
+        "titulo": "Tynix Transformation",
+        "sinopse": "Os Animais Fadados concedem às Winx a nova transformação Tynix."
+      },
+      {
+        "numero": 15,
+        "titulo": "The Magic Stones",
+        "sinopse": "Os dragões enfraquecem à medida que o fogo místico desaparece de Pyros."
+      },
+      {
+        "numero": 16,
+        "titulo": "Back to Paradise Bay",
+        "sinopse": "O ecossistema enfrenta um perigo desconhecido."
+      },
+      {
+        "numero": 17,
+        "titulo": "Lost in a Droplet",
+        "sinopse": "As Winx viajam aos Berços de Água em busca de novas Gemas de Luz."
+      },
+      {
+        "numero": 18,
+        "titulo": "Banana Day",
+        "sinopse": "As Winx e os Especialistas devolvem lêmures ao seu habitat."
+      },
+      {
+        "numero": 19,
+        "titulo": "The Magix Rainbow",
+        "sinopse": "Kalshara e Brafilius interrompem um baile no castelo."
+      },
+      {
+        "numero": 20,
+        "titulo": "Baby Winx",
+        "sinopse": "Os vilões perseguem o animal com o Poder Supremo."
+      },
+      {
+        "numero": 21,
+        "titulo": "It's a Crazy, Crazy World",
+        "sinopse": "As Winx retornam a Alfea; a perseguição se intensifica."
+      },
+      {
+        "numero": 22,
+        "titulo": "The Kingdom of Diamonds",
+        "sinopse": "É descoberto um Digmole ligado a um diamante mágico."
+      },
+      {
+        "numero": 23,
+        "titulo": "The Secret of Alfea",
+        "sinopse": "Flora é resgatada; os Trix iniciam um segundo ataque."
+      },
+      {
+        "numero": 24,
+        "titulo": "The Golden Butterfly",
+        "sinopse": "A batalha continua do lado de fora de Alfea."
+      },
+      {
+        "numero": 25,
+        "titulo": "New Magic Harmony",
+        "sinopse": "Elas resgatam Bloom; o chifre do unicórnio se torna dourado."
+      },
+      {
+        "numero": 26,
+        "titulo": "The Power of the Fairy Animals",
+        "sinopse": "Kalshara se alia às Winx contra os Trix e Brafilius."
+      }
+    ]
+  },
+  {
+    "numero": 8,
+    "anoEstreia": 2019,
+    "totalEpisodios": 26,
+    "sinopse": "As Winx descobrem que as estrelas do universo estão desaparecendo e viajam até Lumenia, onde conquistam a transformação Cosmix para restaurar o brilho de mundos afetados. Ao longo da temporada, enfrentam o retorno de Valtor e o misterioso Obscurum, culminando em uma busca por Estrelas Primordiais para impedir que Valtor conquiste a Estrela dos Desejos e destrua o universo mágico — encerrando a saga clássica da série.",
+    "transformacaoIntroduzida": "Cosmix (com o retorno de Enchantix e Sirenix em episódios específicos)",
+    "principaisViloes": [
+      "Valtor (retorno)",
+      "Obscurum",
+      "Trix (Icy, Darcy e Stormy)"
+    ],
+    "bannerUrl": "https://images.justwatch.com/poster/354560140/s718/temporada-8.jpg",
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Night of the Stars",
+        "sinopse": "Uma criatura amarela de Lumenia cai perto de Alfea; identificada como Twinkly, ela pede ajuda das Winx contra uma ameaça às estrelas do universo."
+      },
+      {
+        "numero": 2,
+        "titulo": "A Kingdom of Lumens",
+        "sinopse": "As Winx chegam a Lumenia; a rainha Dorana revela que as estrelas estão em perigo e lhes concede o poder Cosmix."
+      },
+      {
+        "numero": 3,
+        "titulo": "Attack on the Core",
+        "sinopse": "Staryummies drenam o núcleo de Lumenia; as Winx usam o Cosmix e um feitiço de convergência para restaurá-lo."
+      },
+      {
+        "numero": 4,
+        "titulo": "Popstars!",
+        "sinopse": "As Winx se disfarçam de popstars intergalácticas para salvar uma nave estelar; Valtor cria um buraco negro."
+      },
+      {
+        "numero": 5,
+        "titulo": "Orion's Secret",
+        "sinopse": "Os Especialistas escapam do buraco negro de Valtor; Orion, um cientista estelar, é revelado como ladrão de rubis."
+      },
+      {
+        "numero": 6,
+        "titulo": "Doom of the Lighthouse Star",
+        "sinopse": "As Winx falham em restaurar o núcleo de Iridia; Orion faz um acordo com Valtor e arma uma armadilha."
+      },
+      {
+        "numero": 7,
+        "titulo": "Trapped on Prometia",
+        "sinopse": "As Winx caem na armadilha de Orion, mas escapam criando um núcleo temporário com o poder Supernova do Cosmix."
+      },
+      {
+        "numero": 8,
+        "titulo": "Into the Depths of Andros",
+        "sinopse": "As Winx usam o Sirenix para lutar debaixo d'água contra o Caçador dos Mares tentando salvar Gorgol."
+      },
+      {
+        "numero": 9,
+        "titulo": "The Light of Gorgol",
+        "sinopse": "Aisha salva Nex; as Winx descobrem como usar o Cosmix debaixo d'água e restauram o núcleo de Gorgol."
+      },
+      {
+        "numero": 10,
+        "titulo": "Hydra Awakens",
+        "sinopse": "Valtor transforma a constelação da Hidra em um monstro; as Winx o derrotam com o poder Supernova."
+      },
+      {
+        "numero": 11,
+        "titulo": "Treasures of Syderia",
+        "sinopse": "Obscurum lança um feitiço sobre os lumens de Syderia; as Winx restauram a estrela com cristais de luz."
+      },
+      {
+        "numero": 12,
+        "titulo": "Surprise Party on Earth",
+        "sinopse": "Valtor ataca o Sol para atingir a família de Bloom; ele sequestra Bloom e exige seus poderes Cosmix."
+      },
+      {
+        "numero": 13,
+        "titulo": "Valtor's Shadow",
+        "sinopse": "Bloom entrega seus poderes; Valtor é rejeitado e enviado ao limbo, mas sobrevive e liberta os Trix."
+      },
+      {
+        "numero": 14,
+        "titulo": "The Wishing Star",
+        "sinopse": "A Estrela dos Desejos se espalha em Estrelas Primordiais; as Winx usam o Enchantix para entrar em um MiniMundo Primordial."
+      },
+      {
+        "numero": 15,
+        "titulo": "Mission for the Prime Stars",
+        "sinopse": "As Winx enfrentam os Trix no MiniMundo Primordial do Pinball e capturam a Estrela do Compasso."
+      },
+      {
+        "numero": 16,
+        "titulo": "The Sparx Festival",
+        "sinopse": "Durante o festival de Alfea, as Winx encontram um portal e capturam a primeira Estrela Primordial."
+      },
+      {
+        "numero": 17,
+        "titulo": "Dress Fit for a Queen",
+        "sinopse": "No MiniMundo Primordial da Coragem, Stormy derrota Stella em um desafio e obtém a segunda Estrela Primordial."
+      },
+      {
+        "numero": 18,
+        "titulo": "Valley of the Flying Unicorns",
+        "sinopse": "As Winx viajam além das nuvens de Monoceros; Sky e Diaspro procuram um medalhão perdido."
+      },
+      {
+        "numero": 19,
+        "titulo": "Tower Beyond the Clouds",
+        "sinopse": "As Winx acalmam o unicórnio negro; alcançam a torre e recuperam a terceira Estrela Primordial."
+      },
+      {
+        "numero": 20,
+        "titulo": "The Green Heart of Lynphea",
+        "sinopse": "As Winx entram na Grande Floresta de Linphea; Darcy se disfarça de Miele e rouba a quarta Estrela Primordial."
+      },
+      {
+        "numero": 21,
+        "titulo": "Dance Contest on Melody",
+        "sinopse": "Em Melody, a quinta Estrela Primordial está embutida na coroa de um concurso de dança; Musa e Riven a conquistam."
+      },
+      {
+        "numero": 22,
+        "titulo": "The Secret of Harmony",
+        "sinopse": "Riven se liberta do feitiço de Darcy graças aos seus sentimentos por Musa; as Winx garantem a Estrela Primordial."
+      },
+      {
+        "numero": 23,
+        "titulo": "Between the Earth and the Sea",
+        "sinopse": "Em Coralia, as Winx se dividem entre áreas vulcânicas e oceânicas; Valtor leva pessoalmente a sexta Estrela Primordial."
+      },
+      {
+        "numero": 24,
+        "titulo": "Dyamond on Ice",
+        "sinopse": "No planeta congelado Dyamond, as Winx descobrem que é o lar de Icy; sua irmã Sapphire está presa na forma de raposa branca."
+      },
+      {
+        "numero": 25,
+        "titulo": "The White Fox",
+        "sinopse": "Icy prioriza resgatar Sapphire em vez de pegar a Estrela Primordial, que acaba libertando os Trix da marca de Valtor."
+      },
+      {
+        "numero": 26,
+        "titulo": "Written in the Stars",
+        "sinopse": "As Winx enfrentam Valtor, que se transforma em um monstro demoníaco; Icy entrega sua Estrela Primordial às Winx após perceber as intenções destrutivas de Valtor."
+      }
+    ]
+  }
+]

@@ -1,0 +1,313 @@
+[
+  {
+    "id": "44ae300a-f247-414b-8fc2-43fbfb62be3d",
+    "nome": "Winx (Fada Winx / Forma Básica)",
+    "temporadaIntroduzida": 1,
+    "comoEObtida": "É a primeira forma de fada, obtida por força de vontade e autoconfiança ao entrar em contato com a própria magia interior; normalmente desenvolvida pelas alunas durante o primeiro ano em Alfea. Na dublagem da Nickelodeon (EUA) essa forma foi renomeada 'Charmix Mágico' na 1ª temporada, retornando ao nome original 'Winx' a partir da 3ª temporada.",
+    "descricaoAparencia": "Asas pequenas e simples; trajes leves como minissaias, shorts, tops e vestidos brilhantes; acessórios variados como luvas ou gargantilhas; o penteado quase não muda em relação à forma humana (exceção notável é Stella).",
+    "novosPoderes": [
+      "Poderes elementares básicos de ataque e defesa próprios de cada fada (ex.: Bloom - Chama do Dragão / Escudo de Chama; Stella - Pérolas Solares / Espelho Solar)",
+      "Voo com as próprias asas de fada"
+    ],
+    "personagensQuePossuem": [
+      "Bloom",
+      "Stella",
+      "Flora",
+      "Musa",
+      "Tecna",
+      "Aisha"
+    ],
+    "objetoAssociado": null,
+    "imagemUrl": "https://i.pinimg.com/originals/fd/26/ae/fd26aea8d53731b517b8d8cc5fd80241.jpg",
+    "bannerUrl": "https://i.redd.it/27ze544lpcxe1.jpeg"
+  },
+  {
+    "id": "73fa0641-e23a-4d01-8992-d7f74eaf53ee",
+    "nome": "Charmix",
+    "temporadaIntroduzida": 2,
+    "comoEObtida": "Conquistada pelas fadas do segundo ano ao fazer algo corajoso e altruísta que as ajuda a se reconectar com sua verdadeira essência, ou ao superar uma fraqueza pessoal importante — um marco de amadurecimento emocional.",
+    "descricaoAparencia": "Acrescenta um cristal/broche na parte de cima do traje e uma pequena bolsa/pochete presa à saia ou shorts; o restante do visual segue a base da forma Winx.",
+    "novosPoderes": [
+      "Amplia e fortalece (descrito como 'cerca de dez vezes mais forte') os poderes e feitiços que a fada já possuía",
+      "Permite lançar feitiços mais potentes e eficazes",
+      "A transformação consome energia Winx e se desfaz quando essa energia se esgota"
+    ],
+    "personagensQuePossuem": [
+      "Bloom",
+      "Stella",
+      "Musa",
+      "Aisha",
+      "Tecna",
+      "Flora"
+    ],
+    "objetoAssociado": "O próprio conjunto Charmix (o cristal/broche e a bolsa presos ao traje) funciona como o objeto mágico que sustenta a transformação.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/9/9c/Magic_Winx_Charmix.png/revision/latest",
+    "bannerUrl": "https://i.pinimg.com/736x/fb/f5/63/fbf563e7a6491b5a09e90c6827de5b1f.jpg"
+  },
+  {
+    "id": "6778782d-c8ec-41a3-8a7f-9e9e8cd849d2",
+    "nome": "Enchantix",
+    "temporadaIntroduzida": 3,
+    "comoEObtida": "A fada precisa realizar um grande sacrifício pelo bem-estar de alguém do seu planeta natal. Exemplos: Aisha resgatou a Rainha Leshia; Stella protegeu seu pai, o Rei Radius, de um dragão; Musa salvou a Princesa Galatea de um incêndio; Tecna fechou um perigoso portal dimensional; Flora realizou um ato de sacrifício não detalhado nas fontes consultadas. Bloom é uma exceção à regra: obteve o Enchantix por pura força de vontade e autoconfiança, sem precisar salvar alguém de Sparks.",
+    "descricaoAparencia": null,
+    "novosPoderes": [
+      "Poderes de fada significativamente ampliados",
+      "Capacidade de encolher (miniaturizar-se)",
+      "Pode quebrar feitiços das trevas usando o Pó de Fada guardado em um colar/frasco",
+      "Acesso a feitiços exclusivos dessa forma, próprios de cada fada"
+    ],
+    "personagensQuePossuem": [
+      "Bloom",
+      "Stella",
+      "Musa",
+      "Tecna",
+      "Flora",
+      "Aisha"
+    ],
+    "objetoAssociado": "Um colar com um frasco de Pó de Fada (Fairy Dust), descrito como um dos elementos de cura mais fortes do universo mágico; também pode ser usado para lançar convergências em grupo.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/8/84/Winx_Enchantix_S8.png/revision/latest",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK0hSiqGUm4dGlwA51xtxAwE9kf-X7nhSVxiZgdJUk86K33qYrulSyVWyb&s=10"
+  },
+  {
+    "id": "800e39c9-08f1-4c87-a2ee-03cefff79811",
+    "nome": "Believix",
+    "temporadaIntroduzida": 4,
+    "comoEObtida": "Exige que ao menos uma pessoa (tipicamente um humano) acredite que a magia existe, ou que a própria fada acredite em si mesma — o poder se fortalece conforme mais pessoas passam a crer em fadas e magia. As Winx conquistaram o Believix com a ajuda de Roxy, a última fada terrestre, na missão para proteger a Terra dos Feiticeiros do Círculo Negro.",
+    "descricaoAparencia": "Trajes de estilo casual/urbano — saias e/ou calças capri, meias longas, cintos com babados, botas ou sandálias parecidas com as usadas sem transformação; pulseiras e luvas sem dedos; asas grandes decoradas com desenhos que representam o elemento e o poder individual de cada fada.",
+    "novosPoderes": [
+      "Capacidade de 'alcançar o coração das pessoas' e ajudá-las a superar fraquezas e mudar comportamentos negativos",
+      "Três variações extras de asas: Speedix (voo em alta velocidade), Zoomix (teletransporte) e Tracix (feitiços de rastreamento/retrospecção)",
+      "Acesso posterior aos 'Presentes do Destino' concedidos pelas Fadas Etéreas: Sophix (equilíbrio da natureza), Lovix (sobrevivência e magia de gelo em climas frios) e o Dom Negro (uso único para escapar da morte)"
+    ],
+    "personagensQuePossuem": [
+      "Bloom",
+      "Stella",
+      "Musa",
+      "Tecna",
+      "Flora",
+      "Aisha",
+      "Roxy"
+    ],
+    "objetoAssociado": null,
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/5/58/Bloom_Believix.jpg/revision/latest",
+    "bannerUrl": "https://pbs.twimg.com/media/HF_Cw4bbkAArSZI?format=webp&name=medium"
+  },
+  {
+    "id": "aa2f9023-7fc3-4356-bb6d-529b02870eba",
+    "nome": "Full Believix",
+    "temporadaIntroduzida": 4,
+    "comoEObtida": "As fontes consultadas (Fandom Winx Club Wiki, Wikipedia) não confirmam 'Full Believix' como uma forma canônica isolada com requisito próprio, distinto do Believix regular. É geralmente descrita, em coberturas e fóruns de fãs, como o estágio pleno do Believix quando combinado ao Pó de Fada (Fairy Dust) herdado do Enchantix, mas não foi possível localizar uma página oficial dedicada com um requisito de obtenção detalhado e diferente do Believix.",
+    "descricaoAparencia": null,
+    "novosPoderes": null,
+    "personagensQuePossuem": [
+      "Bloom",
+      "Stella",
+      "Musa",
+      "Tecna",
+      "Flora",
+      "Aisha"
+    ],
+    "objetoAssociado": "Pó de Fada (Fairy Dust), herdado da forma Enchantix e usado em conjunto com o Believix",
+    "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxueKV0Pdg-q-yq2B3r14nCCXWtlqu2S5iDgiG5750iw&s=10",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FoA6TTDpZ8WsyruWoyWcKZoCaWXmS5nQg4OuPtFWGg&s=10"
+  },
+  {
+    "id": "11107abb-83cf-4063-a92f-b10c120e8cfa",
+    "nome": "Harmonix",
+    "temporadaIntroduzida": 5,
+    "comoEObtida": "Concedida pelos Guardiões de Sirenix depois que as Winx vencem uma competição/provam sua união e recebem a bênção do Espírito Ancestral da Natureza. Funciona como uma forma intermediária que as ajuda a buscar e conquistar o Sirenix antes do fim de um ciclo lunar. Nota: apesar de o pedido inicial descrever Harmonix como 'Believix completo', as fontes pesquisadas mostram que se trata de uma transformação distinta, ligada à busca pelo Sirenix, e não a uma evolução do Believix.",
+    "descricaoAparencia": "Top sem alças ou com uma alça em apenas um ombro; cinto; saia que combina uma longa saia de tutu estilo burlesco com uma saia de showgirl; acessórios de conchas no cabelo; sandálias de salto com fitas fluidas; asas de tamanho médio, em múltiplas camadas e coloridas, com efeitos especiais.",
+    "novosPoderes": [
+      "Facilita o uso da magia tanto no ar e em terra quanto debaixo d'água",
+      "Permite nadar mais rápido",
+      "Cada fada produz efeitos mágicos únicos ao bater as asas"
+    ],
+    "personagensQuePossuem": [
+      "Bloom",
+      "Stella",
+      "Musa",
+      "Tecna",
+      "Flora",
+      "Aisha",
+      "Daphne",
+      "Politea"
+    ],
+    "objetoAssociado": "Caixa de Sirenix (Sirenix Box), contendo o Guardião de Sirenix de cada fada",
+    "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQige5BSIWusgamXSz7Mcbh2pOPL5X-qmqkb3nYoamUwg&s=10",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQige5BSIWusgamXSz7Mcbh2pOPL5X-qmqkb3nYoamUwg&s=10"
+  },
+  {
+    "id": "13b9a1ab-70e7-4565-b075-10560804a55c",
+    "nome": "Sirenix",
+    "temporadaIntroduzida": 5,
+    "comoEObtida": "As fadas devem encontrar três gemas mágicas — a Gema da Autoconfiança, a Gema da Empatia e a Gema da Coragem — dentro de um único ciclo lunar, com a ajuda das Caixas de Sirenix e do Livro de Sirenix. Em seguida, vão ao Lago Roccaluce, onde os Guardiões de Sirenix abrem um portal para o Oceano Infinito; lá elas completam a missão e recebem a transformação de Sirenix.",
+    "descricaoAparencia": null,
+    "novosPoderes": [
+      "Respiração debaixo d'água",
+      "Acesso ao Oceano Infinito",
+      "Um 'Desejo de Sirenix' concedido por sua Guardiã, um feitiço poderoso de uso especial",
+      "Controle de elementos e feitiços individuais próprios de cada fada"
+    ],
+    "personagensQuePossuem": [
+      "Bloom",
+      "Stella",
+      "Musa",
+      "Tecna",
+      "Flora",
+      "Aisha",
+      "Daphne"
+    ],
+    "objetoAssociado": "Caixa de Sirenix (Sirenix Box) e o Livro de Sirenix (Sirenix Book)",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/f/f2/Bloom_Sirenix.jpg/revision/latest",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWcLVSzhBAPd7FvzJyKM9IKiDY5MIh35uTgZRT1zk1ug&s=10"
+  },
+  {
+    "id": "750c36de-b053-41a0-b967-fe86bf7fee27",
+    "nome": "Bloomix",
+    "temporadaIntroduzida": 6,
+    "comoEObtida": "Depois de perderem os poderes de Sirenix ao entrar em contato com o livro mágico Legendarium, Bloom cede voluntariamente a suas cinco amigas fragmentos de sua energia da Chama do Dragão. A transformação é conquistada ao realizar ações dignas de fadas verdadeiras, demonstrando coragem e força interior em batalha contra as Trix e suas criaturas.",
+    "descricaoAparencia": null,
+    "novosPoderes": [
+      "Feitiços únicos derivados da Chama do Dragão para cada fada, por exemplo: Bloom - Tempestade de Fogo, Ataque Vulcânico, Orbe do Dragão Vermelho; Stella - Espectro de Luz; Musa - Voz de Cristal; Tecna - Rede Digital, Golpe Genesis; Flora - Raio de Clorofila, Chuva de Flores; Aisha - Nuvem Morfix"
+    ],
+    "personagensQuePossuem": [
+      "Bloom",
+      "Stella",
+      "Musa",
+      "Tecna",
+      "Flora",
+      "Aisha"
+    ],
+    "objetoAssociado": "Fragmentos da Chama do Dragão de Bloom (não é um objeto físico externo, mas energia doada por Bloom)",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/9/9b/Bloom_Bloomix.jpg/revision/latest",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSseZELrDniGvD2v490l3zN0WDJ44CFJ4RP8ZxnTWMIig&s=10"
+  },
+  {
+    "id": "ce90a9d0-92b2-4b9c-a9f2-19c784ed8948",
+    "nome": "Mythix",
+    "temporadaIntroduzida": 6,
+    "comoEObtida": "As fadas precisam provar-se dignas de seu poder perante a Rainha Nebula, em Tir Nan Og, reivindicando as Varinhas Ancestrais (Mythix Wands), que só podem ser empunhadas por quem realmente as merece. A transformação é necessária para encontrar a Esmeralda da Fantasia e, no fim, trancar o Legendarium.",
+    "descricaoAparencia": null,
+    "novosPoderes": [
+      "Acesso ao mundo fictício do Legendarium",
+      "Feitiços únicos, por exemplo: Bloom - 'Chama Envolvente', 'Chamas da Bravura', 'Fogo Mítico'; Stella - 'Estrela Brilhante'; Tecna - 'Proteção Virtual'; Flora - 'Sopro Sempre-verde'",
+      "Os feitiços de Musa e da professora Eldora nessa forma são todos não-verbais"
+    ],
+    "personagensQuePossuem": [
+      "Bloom",
+      "Stella",
+      "Tecna",
+      "Flora",
+      "Aisha",
+      "Musa",
+      "Eldora"
+    ],
+    "objetoAssociado": "Varinha Ancestral / Varinha de Mythix (Mythix Wand)",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/c/c3/Bloom_Mythix.jpg/revision/latest",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jHLx622By77TWBGlP6TMAGWywP1a8WbLPPxIblkCbySAlpVqtt3X81A&s=10"
+  },
+  {
+    "id": "8e7562a0-9b09-4e97-8653-daccf9bba519",
+    "nome": "Butterflix",
+    "temporadaIntroduzida": 7,
+    "comoEObtida": "As fadas precisam provar-se dignas como verdadeiras defensoras dos Animais Fadas. As Winx conquistaram a transformação ao derrotar o Gigante do Vale e defender os Digmoles durante sua missão no Vale do Fruto do Passado.",
+    "descricaoAparencia": "Vestidos fluidos, coloridos, em camadas e frequentemente fofos, com seções de padrão de asa de borboleta; pulseiras com desenho de nervura de borboleta; calçados do tipo stiletto (temporada 7) ou salto bobina (temporada 8); cabelo em tranças soltas ou rabos de cavalo tipo 'bolha', com acessórios temáticos de borboleta; asas grandes com padrões de borboleta.",
+    "novosPoderes": [
+      "Poder de conexão com a natureza (não pode ser usado para ferir a própria natureza)",
+      "Cada fada possui uma habilidade única de conexão com a natureza",
+      "Todos os ataques ganham efeitos especiais em forma de borboleta, por exemplo: Bloom - 'Escamas Ardentes'; Aisha - 'Abraço Mágico de Água'"
+    ],
+    "personagensQuePossuem": [
+      "Bloom",
+      "Stella",
+      "Flora",
+      "Musa",
+      "Aisha",
+      "Tecna"
+    ],
+    "objetoAssociado": null,
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/9/93/Flora_Butterflix.png/revision/latest",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/a/a8/Tecna_Butterflix.png/revision/latest"
+  },
+  {
+    "id": "3c70f018-7b34-4d7b-a978-220d986eec88",
+    "nome": "Tynix",
+    "temporadaIntroduzida": 7,
+    "comoEObtida": "Uma fada recebe uma Pulseira de Tynix (Tynix Bracelet) de seu Animal Fada vinculado, depois que esses animais descobrem a harmonia mágica entre si e se revelam guardiões do Poder Supremo dos Animais Fadas.",
+    "descricaoAparencia": "Trajes inspirados em roupas de patinação no gelo, adornados com pedras preciosas, em cores pastel que combinam com a paleta de cada fada; cabelo em tom mais claro, com acessórios de pedras preciosas, geralmente preso em rabo de cavalo; asas de tamanho médio com padrões e bordas de pedras preciosas.",
+    "novosPoderes": [
+      "Entrada em MiniMundos (MiniWorlds)",
+      "Teletransporte entre os MiniMundos e o mundo normal",
+      "Comunicação com os Animais Fadas",
+      "Cria um vínculo inquebrável entre a fada e seu Animal Fada",
+      "Ataques combinados de fada e animal, potencializados por pedras preciosas"
+    ],
+    "personagensQuePossuem": [
+      "Bloom",
+      "Stella",
+      "Flora",
+      "Musa",
+      "Tecna",
+      "Aisha"
+    ],
+    "objetoAssociado": "Pulseira de Tynix (Tynix Bracelet)",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/3/36/Bloom_Tynix.jpg/revision/latest",
+    "bannerUrl": "https://i.pinimg.com/736x/e0/c1/14/e0c11473d574f74e250ece9c865c2a1b.jpg"
+  },
+  {
+    "id": "02e254f7-f433-4643-bc1c-6f020316d486",
+    "nome": "Dreamix",
+    "temporadaIntroduzida": null,
+    "comoEObtida": "Não pertence às 8 temporadas numeradas de 'Winx Club': é a primeira transformação alcançada pelas Winx na 1ª temporada do spin-off 'World of Winx' (2016). As fontes consultadas não especificam com precisão o requisito/missão exata para sua obtenção dentro da trama.",
+    "descricaoAparencia": "Estética inspirada em J-Pop; trajes completos ornamentados com joias, fitas vibrantes e tecidos translúcidos; calçados integrados ao visual, de forma parecida com Sirenix e Bloomix; acessórios de cabelo e joias cravejados de pedras; asas grandes e iridescentes de dupla camada — uma camada interna emplumada em cores secundárias e uma camada externa com padrão de borboleta combinando com o traje.",
+    "novosPoderes": null,
+    "personagensQuePossuem": [
+      "Bloom",
+      "Stella",
+      "Flora",
+      "Tecna",
+      "Musa",
+      "Aisha"
+    ],
+    "objetoAssociado": "Não identificado nas fontes consultadas. Observação: na 2ª temporada de 'World of Winx', o poder Dreamix é descrito como evoluindo para uma forma chamada 'Onyrix', após missões dadas pelo espírito do Mundo dos Sonhos.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/e/e1/Dreamix_Musa.jpg/revision/latest",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGVMECYzn0GONGNRvP7Kx39R6cGsLqF9HXYniobMry7g&s=10"
+  },
+  {
+    "id": "d0185c37-8c19-45d2-948c-f29fac998f43",
+    "nome": "Cosmix",
+    "temporadaIntroduzida": 8,
+    "comoEObtida": "Concedida pela Rainha Dorana, de Lumenia, depois que as Winx restauram o rio de luz seco do reino ao destruírem uma esfera de magia negra. Dorana então declara que, para salvar as estrelas, elas precisarão de um novo poder, e lhes concede o Cosmix.",
+    "descricaoAparencia": null,
+    "novosPoderes": [
+      "Poder para combater ameaças às estrelas do universo mágico",
+      "Batalhas contra criaturas 'staryummies' e o vilão Obscurum",
+      "Capacidade de restaurar núcleos estelares danificados",
+      "Feitiço especial de convergência 'Cosmix Power Supernova', capaz de empurrar monstros gigantes para portais sombrios e restaurar fontes de luz celestial"
+    ],
+    "personagensQuePossuem": [
+      "Bloom",
+      "Stella",
+      "Flora",
+      "Tecna",
+      "Musa",
+      "Aisha"
+    ],
+    "objetoAssociado": null,
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/d/dd/Cosmix_Magic_803_5.png/revision/latest",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7YezxQKkUbLyV_B9ioe5kE6dzIU9KTwnMxoz8nvy9Q&s=10"
+  },
+  {
+    "id": "6beec4dc-44ab-4110-8043-41b7cb5dd930",
+    "nome": "Sparkix",
+    "temporadaIntroduzida": null,
+    "comoEObtida": null,
+    "descricaoAparencia": null,
+    "novosPoderes": null,
+    "personagensQuePossuem": null,
+    "objetoAssociado": null,
+    "observacao": "Não foi possível confirmar 'Sparkix' como uma transformação oficial do universo Winx Club em nenhuma das fontes pesquisadas (Wikipedia em português e inglês, Winx Club Wiki/Fandom, cobertura de imprensa do reboot 'Winx Club: A Magia Está de Volta' / 'The Magic Is Back', de 2025-2026). O reboot CGI de 2025 introduz novas sequências de transformação (já reveladas para Flora e Tecna, com as demais anunciadas para o restante do elenco), mas nenhuma fonte confirmou o nome oficial dessa nova forma como 'Sparkix'. Recomenda-se tratar este item como não confirmado até que uma fonte oficial nomeie a transformação do reboot.",
+    "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOR-fk_xXBarqGruysFfZ13EzV_ZWGy7DjeNDcrVFhA&s=10",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKE70YZOtlx3U26sw2ZzYHS9qSQngBQ3kH_ClJo_nj6w&s=10"
+  }
+]

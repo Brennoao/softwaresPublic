@@ -1,0 +1,421 @@
+[
+  {
+    "id": "24b25f66-ed42-401c-9290-96a34c7a3a9e",
+    "nome": "Bloom",
+    "nomeCompleto": null,
+    "planetaOrigem": "Domino (Reino de Domino, também chamado Sparx)",
+    "tituloFada": "Fada da Chama do Dragão (Dragon Flame)",
+    "dataNascimento": "10 de dezembro",
+    "corCabelo": "Ruiva/laranja-avermelhado",
+    "corOlhos": "Azul",
+    "personalidade": [
+      "Corajosa",
+      "Determinada",
+      "Empática",
+      "Líder natural",
+      "Impulsiva",
+      "Insegura no início da série, mas ganha confiança",
+      "Leal e protetora com os amigos"
+    ],
+    "poderes": [
+      "Chama do Dragão (fonte de poder mais forte do universo mágico)",
+      "Manipulação de fogo e calor (bolas de fogo, dragões de fogo, feixes de fogo)",
+      "Criação de escudos e paredes de chamas",
+      "Aumento de poder quando emocionalmente motivada"
+    ],
+    "transformacoes": [
+      "Winx",
+      "Charmix",
+      "Enchantix",
+      "Believix",
+      "Harmonix",
+      "Sirenix",
+      "Mythix",
+      "Bloomix",
+      "Tynix",
+      "Butterflix",
+      "Cosmix",
+      "Dreamix (World of Winx)",
+      "Onyrix (World of Winx)"
+    ],
+    "pet": "Kiko (coelho azul)",
+    "familia": {
+      "pais": [
+        "Mike (pai adotivo, bombeiro, Terra)",
+        "Vanessa (mãe adotiva, florista, Terra)",
+        "Rei Oritel (pai biológico, Domino)",
+        "Rainha Marion (mãe biológica, Domino)"
+      ],
+      "irmaos": [
+        "Daphne (irmã mais velha, Fada Guardiã de Domino)"
+      ]
+    },
+    "interesseAmoroso": "Sky (Príncipe de Eraklyon, depois seu noivo/marido)",
+    "melhoresAmigas": [
+      "Stella",
+      "Flora",
+      "Musa",
+      "Tecna",
+      "Aisha"
+    ],
+    "talentoEspecial": "Liderança natural e forte conexão empática com os amigos; foi criada na Terra antes de descobrir ser uma fada",
+    "primeiraAparicao": "Temporada 1, Episódio 1 (2004) - descoberta de seus poderes na Terra e resgate de Stella",
+    "dubladorOriginal": "Letizia Ciampa (italiano)",
+    "dubladorBrasil": "Fabíola Giardino",
+    "biografia": "Bloom é uma garota comum criada na Terra por seus pais adotivos até descobrir, ao salvar a fada Stella, que possui poderes mágicos extraordinários. Ela ingressa na Alfea, Escola para Fadas, onde forma o Winx Club com Stella, Flora, Musa e Tecna, tornando-se a líder do grupo. Ao longo da série descobre ser a princesa perdida do reino de Domino, portadora da lendária Chama do Dragão, e trava batalhas contra grandes vilões como Lorde Darkar, as Trix e Valtor. Vive um relacionamento com o príncipe Sky de Eraklyon, com quem eventualmente se casa. Sua jornada é marcada pelo autoconhecimento, pela busca por sua família biológica e pelo domínio crescente de seus imensos poderes mágicos.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/1/12/Bloom_S8E5.png/revision/latest?cb=20210131110548",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/7/70/580226_362798933802516_1006277302_n.jpg/revision/latest"
+  },
+  {
+    "id": "9014b9ff-3987-4a5e-9607-8bd05d395437",
+    "nome": "Stella",
+    "nomeCompleto": null,
+    "planetaOrigem": "Solária (Solaria)",
+    "tituloFada": "Fada do Sol e da Lua (Fairy of the Shining Sun)",
+    "dataNascimento": "18 de agosto",
+    "corCabelo": "Loiro",
+    "corOlhos": "Castanho-dourado/âmbar",
+    "personalidade": [
+      "Extrovertida e espontânea",
+      "Gosta de ser o centro das atenções",
+      "Vaidosa e apaixonada por moda",
+      "Generosa e leal com os amigos",
+      "Um pouco egocêntrica, mas de bom coração",
+      "Casamenteira"
+    ],
+    "poderes": [
+      "Manipulação de luz solar e lunar",
+      "Criação de raios de luz e energia (ex: Moon Ray)",
+      "Escudos de luz",
+      "Teletransporte em algumas versões (Transportus)"
+    ],
+    "transformacoes": [
+      "Winx",
+      "Charmix",
+      "Enchantix",
+      "Believix",
+      "Harmonix",
+      "Sirenix",
+      "Mythix",
+      "Bloomix",
+      "Tynix",
+      "Butterflix",
+      "Cosmix",
+      "Dreamix (World of Winx)",
+      "Onyrix (World of Winx)"
+    ],
+    "pet": "Amore (Pixie do Amor, sua companheira vinculada)",
+    "familia": {
+      "pais": [
+        "Rei Radius (pai)",
+        "Rainha Luna (mãe, separados/divorciados)"
+      ],
+      "irmaos": null
+    },
+    "interesseAmoroso": "Brandon (escudeiro do príncipe Sky, depois seu noivo)",
+    "melhoresAmigas": [
+      "Bloom"
+    ],
+    "talentoEspecial": "Estilista e designer de moda; cria roupas para o grupo",
+    "primeiraAparicao": "Temporada 1, Episódio 1 (2004) - é resgatada por Bloom de um monstro",
+    "dubladorOriginal": "Perla Liberatori (italiano)",
+    "dubladorBrasil": "Ana Lúcia Menezes",
+    "biografia": "Stella é a princesa herdeira de Solária, planeta de luz, e uma das melhores amigas de Bloom desde o primeiro encontro. Alegre, vaidosa e apaixonada por moda, ela é quem convence Bloom a se matricular em Alfea e se torna sua parceira de quarto. Ao longo da série lida com a separação de seus pais, o Rei Radius e a Rainha Luna, e vive um romance com Brandon, escudeiro disfarçado de príncipe. Apesar do jeito por vezes egocêntrico, Stella é extremamente leal e generosa com as amigas, além de ser a estilista não-oficial do Winx Club, desenhando roupas e acessórios para o grupo.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/6/6b/Stella_S8E16.png/revision/latest?cb=20210131110652",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/d/d4/WOW2-9_(Laser_Control).png/revision/latest"
+  },
+  {
+    "id": "8e09834e-7ab9-45ea-becc-9a0f2506b73c",
+    "nome": "Flora",
+    "nomeCompleto": null,
+    "planetaOrigem": "Linphea (Lynphea)",
+    "tituloFada": "Fada da Natureza",
+    "dataNascimento": "1 de março",
+    "corCabelo": "Castanho com mechas loiras na franja",
+    "corOlhos": "Verde",
+    "personalidade": [
+      "Doce e gentil",
+      "Tímida e reservada",
+      "Pacificadora do grupo",
+      "Sensível e carinhosa",
+      "Protetora (principalmente com a irmã mais nova)",
+      "Corajosa quando é preciso defender quem ama"
+    ],
+    "poderes": [
+      "Controle sobre plantas e vinhas",
+      "Ataques de flores e pólen",
+      "Cura através da natureza",
+      "Comunicação com plantas",
+      "Criação de poções e remédios naturais"
+    ],
+    "transformacoes": [
+      "Winx",
+      "Charmix",
+      "Enchantix",
+      "Believix",
+      "Harmonix",
+      "Sirenix",
+      "Mythix",
+      "Bloomix",
+      "Tynix",
+      "Butterflix",
+      "Cosmix",
+      "Dreamix (World of Winx)",
+      "Onyrix (World of Winx)"
+    ],
+    "pet": "Planta falante em seu quarto (referida em fontes como companhia de estimação)",
+    "familia": {
+      "pais": [
+        "Alyssa (mãe)",
+        "Rhodos (pai)"
+      ],
+      "irmaos": [
+        "Miele (irmã mais nova)"
+      ]
+    },
+    "interesseAmoroso": "Helia (artista e estudante da Fonterra Red)",
+    "melhoresAmigas": [
+      "Aisha",
+      "Bloom",
+      "Stella",
+      "Tecna",
+      "Musa"
+    ],
+    "talentoEspecial": "Preparo de poções e remédios naturais à base de plantas; jardinagem e culinária",
+    "primeiraAparicao": "Temporada 1, Episódio 2 (2004) - apresentada como colega de quarto em Alfea",
+    "dubladorOriginal": "Ilaria Latini (italiano)",
+    "dubladorBrasil": "Adriana Torres",
+    "biografia": "Flora é a fada de Linphea, planeta ligado à natureza, e uma das colegas de quarto de Bloom em Alfea. É a mais doce e tímida do grupo, mas também uma das mais sábias, usando seus conhecimentos de plantas para criar poções e curas. Vive um romance de longa data com Helia, um artista sensível que conheceu ainda criança. Ao longo da série, Flora amadurece, torna-se mais confiante em batalha e assume um papel de irmã protetora quando sua irmã mais nova, Miele, entra em cena. É reconhecida por seu papel de pacificadora e conselheira dentro do Winx Club.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/f/f2/Flora_S8E7.png/revision/latest?cb=20200419122905",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/3/31/WOW4_(Listening_to_the_Plants).png/revision/latest"
+  },
+  {
+    "id": "b2e278e4-7675-438a-84cb-55a1714fb519",
+    "nome": "Musa",
+    "nomeCompleto": null,
+    "planetaOrigem": "Melody",
+    "tituloFada": "Fada da Música",
+    "dataNascimento": "30 de maio",
+    "corCabelo": "Azul-escuro/preto-azulado",
+    "corOlhos": "Azul-escuro",
+    "personalidade": [
+      "Corajosa e destemida",
+      "Um pouco moleca (tomboy)",
+      "Observadora e sensível",
+      "Leal",
+      "Às vezes pessimista ou sarcástica",
+      "Direta ao falar o que pensa"
+    ],
+    "poderes": [
+      "Manipulação de ondas sonoras e música",
+      "Onda Sônica (Sonic Wave)",
+      "Comunicação telepática",
+      "Voz de cristal (Crystal Voice)",
+      "Audição sobre-humana"
+    ],
+    "transformacoes": [
+      "Winx",
+      "Charmix",
+      "Enchantix",
+      "Believix",
+      "Harmonix",
+      "Sirenix",
+      "Mythix",
+      "Bloomix",
+      "Tynix",
+      "Butterflix",
+      "Cosmix",
+      "Dreamix (World of Winx)",
+      "Onyrix (World of Winx)"
+    ],
+    "pet": "Pixie companheira (varia ao longo da série)",
+    "familia": {
+      "pais": [
+        "Ho-Boe (pai, músico)",
+        "Matlin (mãe, cantora, falecida)"
+      ],
+      "irmaos": null
+    },
+    "interesseAmoroso": "Riven (relacionamento intermitente ao longo da série)",
+    "melhoresAmigas": [
+      "Tecna",
+      "Aisha"
+    ],
+    "talentoEspecial": "Canto e música; toca flauta transversa; sonha em ser cantora como a mãe",
+    "primeiraAparicao": "Temporada 1, Episódio 2 (2004) - apresentada como colega de quarto em Alfea",
+    "dubladorOriginal": "Gemma Donati (italiano)",
+    "dubladorBrasil": "Mariana Torres",
+    "biografia": "Musa é a fada de Melody, planeta da música, e cresceu com o pai após a morte prematura da mãe, uma cantora famosa. Essa perda moldou sua personalidade mais fechada e cautelosa no início da série, que aos poucos se abre para as amizades do Winx Club. Apaixonada por música desde criança, sonha em seguir os passos da mãe como cantora. Vive um romance conturbado com Riven, marcado por idas e vindas ao longo das temporadas. Musa também desenvolve uma proximidade especial com Tecna e, posteriormente, com Aisha, tornando-se uma amiga leal e protetora dentro do grupo.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/d/de/Musa_S8E7.png/revision/latest?cb=20200419122930",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/e/e1/Dreamix_Musa.jpg/revision/latest"
+  },
+  {
+    "id": "0607b40a-6849-4cbc-906c-3d6eb8fb1752",
+    "nome": "Tecna",
+    "nomeCompleto": "Princesa Tecna",
+    "planetaOrigem": "Zenith",
+    "tituloFada": "Fada da Tecnologia (Guardiã de Zenith)",
+    "dataNascimento": "16 de dezembro",
+    "corCabelo": "Magenta/rosa curto",
+    "corOlhos": "Verde-azulado",
+    "personalidade": [
+      "Extremamente inteligente e racional",
+      "Lógica e prática, às vezes ao extremo",
+      "Perfeccionista",
+      "Tem dificuldade em expressar emoções, mas evolui com o tempo",
+      "Leal e cada vez mais afetuosa com as amigas"
+    ],
+    "poderes": [
+      "Magia tecnológica (Technomagic)",
+      "Esfera Estática (Static Sphere)",
+      "Firewall e escudos digitais",
+      "Raio Laser (feitiço favorito)",
+      "Criação de campos eletromagnéticos e esferas de plasma"
+    ],
+    "transformacoes": [
+      "Winx",
+      "Charmix",
+      "Enchantix",
+      "Believix",
+      "Harmonix",
+      "Sirenix",
+      "Mythix",
+      "Bloomix",
+      "Tynix",
+      "Butterflix",
+      "Cosmix",
+      "Dreamix (World of Winx)",
+      "Onyrix (World of Winx)"
+    ],
+    "pet": "Digit (Pixie da Nanotecnologia) e Chicko, o patinho",
+    "familia": {
+      "pais": [
+        "Electronio (pai)",
+        "Magnethia (mãe)"
+      ],
+      "irmaos": null
+    },
+    "interesseAmoroso": "Timmy (namorado)",
+    "melhoresAmigas": [
+      "Musa",
+      "Flora"
+    ],
+    "talentoEspecial": "Criação de invenções, programação, memória fotográfica; gosta de videogames e xadrez",
+    "primeiraAparicao": "Temporada 1, Episódio 2 (2004) - apresentada como colega de quarto em Alfea",
+    "dubladorOriginal": "Domitilla D'Amico (italiano)",
+    "dubladorBrasil": "Iara Riça",
+    "biografia": "Tecna é a fada de Zenith, planeta tecnológico, e uma das colegas de quarto de Bloom em Alfea. Extremamente racional e lógica, tem inicialmente dificuldade em lidar com emoções, algo que muda gradualmente ao se aproximar das amigas do Winx Club. É apaixonada por tecnologia, invenções e ciência, além de excelente estrategista em batalha. Namora Timmy, um dos Especialistas, com quem compartilha o gosto por gadgets e engenhocas. Ao longo da série, Tecna se torna mais expressiva e afetuosa, sem nunca perder sua natureza analítica e curiosa.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/5/59/Tecna_S8E11.png/revision/latest?cb=20210131110510",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/c/c0/WOW13_(Technomagic_Scan).png/revision/latest"
+  },
+  {
+    "id": "7528ec4c-8761-443d-9f4f-5a63f775607e",
+    "nome": "Aisha",
+    "nomeCompleto": "Princesa Aisha",
+    "planetaOrigem": "Andros",
+    "tituloFada": "Fada das Ondas / Fluidos (Morphix)",
+    "dataNascimento": "15 de junho",
+    "corCabelo": "Castanho-escuro, cacheado",
+    "corOlhos": "Azul",
+    "personalidade": [
+      "Confiante e determinada",
+      "Atlética e competitiva",
+      "Independente e opinativa",
+      "Impaciente às vezes",
+      "Prática e intuitiva",
+      "Carinhosa com quem confia"
+    ],
+    "poderes": [
+      "Controle do Morphix (fluido mágico rosa-arroxeado)",
+      "Manipulação de água e fluidos",
+      "Respiração debaixo d'água",
+      "Criação de ondas e correntes",
+      "Combate físico e uso de bastão"
+    ],
+    "transformacoes": [
+      "Charmix",
+      "Enchantix",
+      "Believix",
+      "Harmonix",
+      "Sirenix",
+      "Mythix",
+      "Bloomix",
+      "Tynix",
+      "Butterflix",
+      "Cosmix",
+      "Dreamix (World of Winx)",
+      "Onyrix (World of Winx)"
+    ],
+    "pet": "Cavalos (afinidade especial); companhia de Pixies ao longo da série",
+    "familia": {
+      "pais": [
+        "Rei Teredor (pai)",
+        "Rainha Niobe (mãe)"
+      ],
+      "irmaos": null
+    },
+    "interesseAmoroso": "Nabu (namorado, falece na 4ª temporada); depois Nex (a partir da 6ª temporada)",
+    "melhoresAmigas": [
+      "Flora",
+      "Musa"
+    ],
+    "talentoEspecial": "Dança, esportes radicais (escalada, surf, natação), luta e parkour; fala vários idiomas",
+    "primeiraAparicao": "Temporada 2 (2005) - resgatada pelo Winx Club de Lorde Darkar e passa a integrar o grupo",
+    "dubladorOriginal": "Laura Lenghi (italiano)",
+    "dubladorBrasil": "Flávia Fontenelle",
+    "biografia": "Aisha (também conhecida como Layla em dublagens antigas) é a princesa herdeira de Andros, planeta aquático, e ingressa no Winx Club na segunda temporada após ser salva pelas fadas de Alfea. Atlética, confiante e determinada, rapidamente se torna uma integrante essencial do grupo, com forte proximidade com Flora e, mais tarde, com Musa. Vive um relacionamento sério com o mago Nabu, cuja morte na quarta temporada é um dos momentos mais marcantes da série; posteriormente encontra um novo amor em Nex. Aisha é reconhecida por sua independência, seu talento atlético e sua lealdade inabalável às amigas.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/5/52/Aisha_S8E09.png/revision/latest?cb=20210128135514",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/f/f9/WOW8_(Aisha_with_a_Tidal_Wave).png/revision/latest"
+  },
+  {
+    "id": "94994d06-ed2b-486b-810d-d38b05c8fc97",
+    "nome": "Roxy",
+    "nomeCompleto": null,
+    "planetaOrigem": "Terra (Gardênia)",
+    "tituloFada": "Fada dos Animais",
+    "dataNascimento": "20 de março",
+    "corCabelo": "Rosa-arroxeado com mechas douradas",
+    "corOlhos": "Roxo/violeta",
+    "personalidade": [
+      "Rebelde e teimosa",
+      "Tímida no início",
+      "Corajosa e leal aos animais",
+      "Temperamental às vezes",
+      "Sacrifica-se por quem ama"
+    ],
+    "poderes": [
+      "Telepatia com animais",
+      "Capacidade de dar fala a animais",
+      "Cura e proteção de animais",
+      "Sentir perigo (percepção instintiva)",
+      "Ataques de energia e escudos básicos"
+    ],
+    "transformacoes": [
+      "Believix"
+    ],
+    "pet": "Artu (cachorro de grande porte e inteligência incomum)",
+    "familia": {
+      "pais": [
+        "Rainha Morgana (mãe, líder das fadas guardiãs da Terra)",
+        "Klaus (pai, dono do Frutti Music Bar)"
+      ],
+      "irmaos": null
+    },
+    "interesseAmoroso": null,
+    "melhoresAmigas": [
+      "Bloom",
+      "Stella",
+      "Flora",
+      "Musa",
+      "Tecna",
+      "Aisha"
+    ],
+    "talentoEspecial": "Comunicação e empatia com animais; mantém um abrigo secreto de animais",
+    "primeiraAparicao": "Temporada 4, Episódio 1 (2010) - conhece o Winx Club em Gardênia, na Terra",
+    "dubladorOriginal": "Debora Magnaghi (italiano)",
+    "dubladorBrasil": "Jullie",
+    "biografia": "Roxy é uma garota comum de Gardênia, na Terra, que descobre ser uma fada ao conhecer o Winx Club durante a quarta temporada. Filha da Rainha Morgana, líder das fadas guardiãs terrestres, Roxy inicialmente resiste à ideia de ter poderes mágicos, sentindo-se mais confortável em sua vida normal cuidando de animais. Com a ajuda das Winx, aprende a aceitar sua identidade de fada e conquista a transformação Believix. É frequentemente descrita como a 'sétima integrante' ou uma aliada próxima do Winx Club, aparecendo com menos frequência que as seis fadas principais nas temporadas seguintes.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/2/2e/RoxyEp702%2810%29.png/revision/latest?cb=20240709082540",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/c/c6/WOW8_(Roxy's_Animal_Vision).png/revision/latest"
+  }
+]

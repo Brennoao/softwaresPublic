@@ -1,0 +1,343 @@
+[
+  {
+    "id": "be5e3ff1-65af-477e-9b61-8d5658cb7364",
+    "nome": "Sky",
+    "papel": "Príncipe (depois Rei) de Eraklyon; líder dos Specialistas",
+    "escolaOuLocal": "Fonte Vermelha (formação); reino de Eraklyon",
+    "relacaoComWinx": "Noivo/marido de Bloom; líder do grupo dos Specialistas que apoia as Winx em combate",
+    "poderes": [
+      "Excelente espadachim",
+      "Combate, arco e flecha, hoverboard",
+      "Duplo sabre de luz (a partir da 8ª temporada)"
+    ],
+    "biografia": "Sky é o príncipe loiro de Eraklyon que lidera os Specialistas com forte senso de dever. Na 1ª temporada trocou de identidade com o amigo Brandon, e mais tarde rompeu um casamento arranjado com Diaspro para ficar com Bloom, tornando-se rei de Eraklyon.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/6/65/Sky_S8E4.png/revision/latest/scale-to-width-down/600?cb=20190419153833",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/8/81/Winx_704_--_Timmy,_Brandon,_Nex,_Sky,_Helia.PNG/revision/latest"
+  },
+  {
+    "id": "81c3d030-c7f9-4e8b-a801-402e9aa65a91",
+    "nome": "Brandon",
+    "papel": "Escudeiro e melhor amigo de Sky; Specialista",
+    "escolaOuLocal": "Fonte Vermelha",
+    "relacaoComWinx": "Noivo de Stella",
+    "poderes": [
+      "Força e combate corpo a corpo",
+      "Duas phantoblades verdes",
+      "Cajado laser com levitação e rajadas de vento"
+    ],
+    "biografia": "Brandon se passou pelo \"Príncipe Sky\" na 1ª temporada antes de revelar ser na verdade o escudeiro do príncipe. Leal e protetor, é considerado um dos Specialistas mais fortes de Fonte Vermelha ao lado de Sky.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/a/a7/Brandon_S8E1.png/revision/latest/scale-to-width-down/600?cb=20190411185506",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/8/81/Winx_704_--_Timmy,_Brandon,_Nex,_Sky,_Helia.PNG/revision/latest"
+  },
+  {
+    "id": "f97d524a-afd4-4976-8f14-8f3a357de42b",
+    "nome": "Riven",
+    "papel": "Specialista",
+    "escolaOuLocal": "Fonte Vermelha",
+    "relacaoComWinx": "Namorado (depois marido) de Musa",
+    "poderes": [
+      "Espadachim habilidoso",
+      "Ladrão e arrombador especialista",
+      "Estratégia e furtividade",
+      "Phantoblade roxa em formato de cimitarra, bolas e nunchakus (8ª temporada)"
+    ],
+    "biografia": "Riven é o rebelde solitário dos Specialistas, marcado por cabelo magenta curto e olhos violeta. Criado sem a presença da mãe, tem dificuldade inicial em expressar emoções, mas amadurece ao longo da série, especialmente a partir da 4ª temporada, tornando-se mais compassivo em seu relacionamento com Musa.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/6/68/Riven_S8E10_-2.png/revision/latest/scale-to-width-down/600?cb=20210128113626",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHduAmGggV9VC_qye7KixHyQbd9eW4OItByODOlCEEtg&s=10"
+  },
+  {
+    "id": "902a0c36-c4f8-4f33-a477-8369a21f3bb8",
+    "nome": "Timmy",
+    "papel": "\"O cérebro\" dos Specialistas",
+    "escolaOuLocal": "Fonte Vermelha",
+    "relacaoComWinx": "Namorado de Tecna",
+    "poderes": [
+      "Planejamento estratégico",
+      "Criação de dispositivos tecnológicos",
+      "Pilotagem de naves",
+      "Armas: pistola, espada, besta e arco de energia (8ª temporada)"
+    ],
+    "biografia": "Timmy é magricela, usa óculos e é o mais inteligente dos Specialistas, embora tímido e um pouco desastrado perto de Tecna, com quem compartilha o gosto por tecnologia. Funciona como a \"voz da razão\" do grupo.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/9/97/Timmy_S8E1.png/revision/latest/scale-to-width-down/600?cb=20190411190020",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/8/81/Winx_704_--_Timmy,_Brandon,_Nex,_Sky,_Helia.PNG/revision/latest"
+  },
+  {
+    "id": "e1a8c8ae-3d00-49f5-bc44-3a88fc16ddb4",
+    "nome": "Helia",
+    "papel": "Aluno de artes e piloto Specialista",
+    "escolaOuLocal": "Fonte Vermelha (é neto do diretor Saladin)",
+    "relacaoComWinx": "Namorado de Flora",
+    "poderes": [
+      "Pilotagem excepcional",
+      "Artes marciais e espionagem",
+      "Luvas de fio laser para contenção e eletrocussão",
+      "Arma tipo corda com cabo para desarmar inimigos"
+    ],
+    "biografia": "Helia é o Specialista mais maduro, calmo e pacifista do grupo, preferindo a contenção à violência. Artista e poeta, expressa-se por desenhos e poemas, sendo um apoio emocional constante para Flora.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/a/a2/Helia_S8E10.png/revision/latest/scale-to-width-down/600?cb=20210126041058",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/8/81/Winx_704_--_Timmy,_Brandon,_Nex,_Sky,_Helia.PNG/revision/latest"
+  },
+  {
+    "id": "e58f934e-dc87-4c5c-8af7-2b7cee9efef4",
+    "nome": "Nex",
+    "papel": "Ex-paladino de Linphea, depois Specialista (8ª temporada)",
+    "escolaOuLocal": "Colégio de Linphea; depois Fonte Vermelha",
+    "relacaoComWinx": "Namorado de Aisha (Layla)",
+    "poderes": [
+      "Combate com Alabarda do Vento (rajadas de vento)",
+      "Pilotagem de hoverbike",
+      "Agilidade em combate",
+      "Duas pequenas espadas (8ª temporada)"
+    ],
+    "biografia": "Introduzido na 6ª temporada como paladino, Nex é inicialmente exibido e um pouco arrogante, mas amadurece ao longo do tempo, conquistando o respeito do grupo e um relacionamento genuíno com Aisha.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/e/eb/Nex_S8E1.png/revision/latest/scale-to-width-down/600?cb=20190411190310",
+    "bannerUrl": "https://static.wikia.nocookie.net/winx/images/8/81/Winx_704_--_Timmy,_Brandon,_Nex,_Sky,_Helia.PNG/revision/latest"
+  },
+  {
+    "id": "97840405-84e7-4705-91b4-fc8bb656afff",
+    "nome": "Roy",
+    "papel": "Condutor de iate a serviço do pai de Aisha; depois aluno de Fonte Vermelha",
+    "escolaOuLocal": "Reino dos oceanos; depois Fonte Vermelha",
+    "relacaoComWinx": "Amigo próximo de Aisha, com interesse romântico por ela; rival de Nex na 6ª temporada",
+    "poderes": [
+      "Combate subaquático",
+      "Javelin como arma principal",
+      "Aura de Tríton (respiração subaquática)",
+      "Espada de natureza que gera eletricidade"
+    ],
+    "biografia": "Roy ajuda as Winx frequentemente durante a busca por Sirenix, sendo geralmente paciente e heroico, embora demonstre ciúme incomum de Nex na disputa pela atenção de Aisha na 6ª temporada. Desaparece da trama após essa temporada sem explicação de seu destino.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/c/ca/Roy_%28S6%29.jpg/revision/latest/scale-to-width-down/600?cb=20181123025848",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx_00Z5h8_Hds-TlmSn1GeflKTMN_iIyQF9UTy2AnVcQ&s=10"
+  },
+  {
+    "id": "77ddef82-deba-4260-bb6b-9fd119c0ee61",
+    "nome": "Nabu",
+    "papel": "Feiticeiro",
+    "escolaOuLocal": "Andros",
+    "relacaoComWinx": "Namorado e depois noivo de Aisha (Layla)",
+    "poderes": [
+      "Cajado mágico de cor roxa",
+      "Desaparecimento e criação de clones",
+      "Solidificação de plantas",
+      "Escudos defensivos e transformação de objetos"
+    ],
+    "biografia": "Nabu fugiu de um casamento arranjado para buscar Aisha, de quem já havia se aproximado após investigá-la à distância. Sociável apesar de uma criação isolada, ganhou a confiança das Winx e dos Specialistas, sacrificando a própria vida para salvar as Fadas da Terra, tornando-se o primeiro personagem principal a morrer na série.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/8/87/Nabu.jpg/revision/latest/scale-to-width-down/600?cb=20140615035911",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Xq0_EQUP_nQhob7vACu0VVhvB53Q0q5GT0lpOdqh2Q&s=10"
+  },
+  {
+    "id": "9b218fa0-9386-4e16-93b1-454c8e3e87de",
+    "nome": "Thoren",
+    "papel": "Paladino guerreiro; primo de Sky",
+    "escolaOuLocal": "Domino",
+    "relacaoComWinx": "Marido de Daphne, irmã de Bloom",
+    "poderes": [
+      "Combate tático",
+      "Pilotagem de veículos/aeronaves",
+      "Martelo do Terremoto (gera ondas sísmicas)"
+    ],
+    "biografia": "Thoren é inicialmente gentil e passivo, sentindo inveja do primo mais ousado, Sky, na infância. Amadurece ao longo da série até se casar com a Princesa Daphne de Domino ao final da 6ª temporada.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/3/3e/Thoren_S7.png/revision/latest/scale-to-width-down/600?cb=20170521143952",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXWvGG47AorV85YCoDl8Mj6I2VrCf3msgH8RqtQ3-KEQ&s=10"
+  },
+  {
+    "id": "a0b7833d-ec30-41a7-8228-511bbad80193",
+    "nome": "Faragonda",
+    "papel": "Diretora e professora",
+    "escolaOuLocal": "Alfea, Escola para Fadas",
+    "relacaoComWinx": "Mentora e guia; ajudou Bloom a descobrir seu passado e seus verdadeiros poderes",
+    "poderes": [
+      "Ilusões, escudos protetores e rajadas de energia",
+      "Teletransporte",
+      "Especialista em magia de Convergência",
+      "Regressão de idade e banimento dimensional"
+    ],
+    "biografia": "Faragonda é uma fada idosa que já foi aluna de Alfea e chegou a ser bruxa antes. Foi membro da Companhia da Luz, grupo que defendeu o mundo mágico contra as Bruxas Ancestrais e Valtor, e hoje dirige Alfea como protetora constante de suas alunas.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/5/5d/Faragonda_S8E10.png/revision/latest/scale-to-width-down/600?cb=20190605084715",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBB1lxUgOQSoDVXg00qGmWTY6iTx35mc1hnS1NfTHRg&s=10"
+  },
+  {
+    "id": "597d1cfe-b352-43c6-9d48-18d781ef7f41",
+    "nome": "Griffin",
+    "papel": "Diretora e professora",
+    "escolaOuLocal": "Torre Nublada, Escola para Bruxas",
+    "relacaoComWinx": "Inicialmente ambígua/antagonista indireta (ligada às Trix), torna-se aliada das Winx em diversas ocasiões",
+    "poderes": [
+      "Magia poderosa de aspecto negativo (verde e roxo)",
+      "Rajadas de energia e barreiras",
+      "Convergência mágica com fadas, algo incomum entre bruxas"
+    ],
+    "biografia": "Griffin é uma das Três Pontas da Magia, com exterior severo e sem rodeios, mas de sólidos princípios morais. Torna-se uma aliada crucial das Winx no combate a forças do mal ao longo da série.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/3/30/Griffin_S8E16.png/revision/latest/scale-to-width-down/600?cb=20200125071514",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYsDnUBk7njBG6jrKj7mqN9albTksOL3UVPMw0_oG9Fg&s=10"
+  },
+  {
+    "id": "6572a626-edb2-41e6-9923-aa985335cdd8",
+    "nome": "Saladin",
+    "papel": "Diretor",
+    "escolaOuLocal": "Fonte Vermelha, Escola para Specialistas",
+    "relacaoComWinx": "Tio de Helia; amigo dos pais de Bloom, Oritel e Marion; ex-membro da Companhia da Luz",
+    "poderes": null,
+    "biografia": "Saladin é um homem baixo e idoso, de sobrancelhas grossas e cabelo longo grisalho. Ajudou a derrotar as Trix na 1ª temporada e integrou o grupo lendário que lutou contra as Bruxas Ancestrais quando Domino foi destruída.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/2/2d/Saladin_Season_5.jpg/revision/latest/scale-to-width-down/600?cb=20201023192411",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztzqd9JwEBqa8GqAlvPqPY5SOsHsAqo4OZ5ePjMdlJg&s=10"
+  },
+  {
+    "id": "1982793a-2f65-458d-a647-18d31411385d",
+    "nome": "Wizgiz",
+    "papel": "Professor de Metamorfosimbiose (arte da metamorfose)",
+    "escolaOuLocal": "Alfea",
+    "relacaoComWinx": "Instrutor das Winx, preocupado tanto com o desempenho acadêmico quanto com as decisões das alunas",
+    "poderes": [
+      "Metamorfose em diversas formas (cão, hipopótamo, ave, musaranho)",
+      "Invocação de objetos",
+      "Feitiços de reversão de transformação"
+    ],
+    "biografia": "Leprechaun excêntrico, Wizgiz leciona em Alfea há mais de mil anos, sendo o membro mais antigo do corpo docente. Mantém grande entusiasmo pelo ensino, com um lado sério e outro bem-humorado.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/5/57/Wizgiz_S8E07.png/revision/latest/scale-to-width-down/600?cb=20190802184905",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR8mj4dlXcGAy4P9ZFBKwcvsNTcoolhM6vwItuOLziUw&s=10"
+  },
+  {
+    "id": "caa683c9-49bf-419a-a44c-1552bf2d9b0f",
+    "nome": "Palladium",
+    "papel": "Professor",
+    "escolaOuLocal": "Alfea",
+    "relacaoComWinx": "Instrutor; ganha respeito crescente das alunas ao longo da série",
+    "poderes": [
+      "Feitiços de combate e magia da natureza (Espada de Luz, Fixum Ballum, Esfera de Plasma, Lâminas Flamejantes)"
+    ],
+    "biografia": "Elfo inicialmente inseguro e pouco respeitado, Palladium torna-se mais assertivo e confiante a partir da 2ª temporada, conquistando o respeito dos alunos mantendo, ao mesmo tempo, gentileza e senso de justiça.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/b/bb/Palladium_S8E18.png/revision/latest/scale-to-width-down/600?cb=20210128114128",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY_U1RhkwzxZyhMSQhBTUPJVQB7xbEcDuNrGPGREardg&s=10"
+  },
+  {
+    "id": "8b38854b-7036-4e61-a443-6648fa08276c",
+    "nome": "Professora DuFour",
+    "papel": "Professora de etiqueta",
+    "escolaOuLocal": "Alfea",
+    "relacaoComWinx": "Professora raramente vista das Winx",
+    "poderes": null,
+    "biografia": "DuFour é uma professora de Alfea com poucas aparições na série, responsável por ensinar boas maneiras e etiqueta às alunas.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/6/6c/Professor_DuFour.jpg/revision/latest?cb=20140911060744",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiufZK9MGIK5H8Q8jK3uhcCs6vTpFj5h_SjbkLhuURQg&s=10"
+  },
+  {
+    "id": "c48fa422-6e3c-4ab2-b724-76edc25194b9",
+    "nome": "Codatorta",
+    "papel": "Vice-diretor e Chefe de Disciplina; mestre de batalha",
+    "escolaOuLocal": "Fonte Vermelha",
+    "relacaoComWinx": "Instrutor e mentor dos Specialistas",
+    "poderes": [
+      "Espadachim habilidoso (espada azul-escura)",
+      "Chicote azul-escuro",
+      "Pode receber feitiços de fortalecimento mágico em combate"
+    ],
+    "biografia": "Codatorta é um instrutor corpulento e de postura rígida, mas genuinamente preocupado com seus alunos. Defendeu Fonte Vermelha durante a invasão das Trix e atuou em diversos confrontos contra ameaças mágicas.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/0/04/Codatorta_Profile.png/revision/latest/scale-to-width-down/600?cb=20240927214111",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnIWYrNNBy8XEPOQBJ-lrrXXlhmbsTCEesBv0avq1WhA&s=10"
+  },
+  {
+    "id": "ff4aca54-8a4e-44e9-bb6b-ac0b920dad00",
+    "nome": "Daphne",
+    "papel": "Princesa Herdeira de Domino; ex-Guardiã da Chama do Dragão; professora de História da Magia",
+    "escolaOuLocal": "Domino; depois professora em Alfea",
+    "relacaoComWinx": "Irmã mais velha de Bloom; guia e mentora espiritual",
+    "poderes": [
+      "Sirenix",
+      "Piroquinese e manipulação elemental",
+      "Cura, teletransporte e criação de portais",
+      "Comando sobre a Fera das Profundezas"
+    ],
+    "biografia": "Quando as Bruxas Ancestrais ameaçaram a Chama do Dragão, Daphne transferiu seu poder para a bebê Bloom e a enviou para longe em segurança, sendo depois morta pelas bruxas e tornando-se um espírito que guia Bloom telepaticamente. Mais tarde recupera seu corpo físico, torna-se professora em Alfea e se casa com Thoren.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/6/60/Daphne_S7.png/revision/latest/scale-to-width-down/600?cb=20240219005432",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk89auVHvhZMGDId_Fu_kLobETx9DEO9dq17tVQsc7Bg&s=10"
+  },
+  {
+    "id": "527b89e6-b527-4745-917e-328e927493b2",
+    "nome": "Rei Oritel",
+    "papel": "Rei de Domino; líder da Companhia da Luz",
+    "escolaOuLocal": "Domino",
+    "relacaoComWinx": "Pai biológico de Bloom e Daphne",
+    "poderes": [
+      "Espadachim poderoso e habilidoso",
+      "Espada com uma centelha da Chama do Dragão"
+    ],
+    "biografia": "Oritel é um governante corajoso e protetor, que ficou quase vinte anos separado das filhas após o ataque das Bruxas Ancestrais a Domino. Fundou tanto a Companhia da Luz quanto o Conselho de Soberanos para combater grandes ameaças.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/8/80/Oritel524-1.png/revision/latest/scale-to-width-down/600?cb=20211008201952",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPyaiSfLZ_8gKgCeI8K0viqdblIgBR217OzsUdO4WIpQ&s=10"
+  },
+  {
+    "id": "bb40e8be-f681-4d92-a11e-e7249a5f35f1",
+    "nome": "Rainha Marion",
+    "papel": "Rainha de Domino",
+    "escolaOuLocal": "Domino",
+    "relacaoComWinx": "Mãe biológica de Bloom e Daphne",
+    "poderes": null,
+    "biografia": "Marion é a esposa do Rei Oritel e mãe de Bloom e Daphne. Há indícios de que possa ter portado a Chama do Dragão, mas informações detalhadas sobre sua trajetória são limitadas nas fontes disponíveis.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/2/26/Miriam.PNG/revision/latest/scale-to-width-down/600?cb=20240928055500",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq-e5E1jspSa0Jp7Jn3vm0X2TN6tVfJlwjlwewGg55oQ&s=10"
+  },
+  {
+    "id": "0e4ba0ce-e7d3-45e0-84de-e98cb0a1bc90",
+    "nome": "Rei Radius",
+    "papel": "Rei de Solária",
+    "escolaOuLocal": "Solária",
+    "relacaoComWinx": "Pai de Stella",
+    "poderes": null,
+    "biografia": "Radius é um pai carinhoso, porém um tanto distraído e arrogante. Foi enfeitiçado pela Condessa Cassandra na 3ª temporada, sendo libertado pela filha Stella; ao longo da série torna-se mais receptivo à ex-esposa, Luna.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/1/1b/Radius_S8E17.png/revision/latest/scale-to-width-down/600?cb=20210102102510",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8swIUczkwPDxpo69qU_hM-PW4Xuo4pqSUrZ57YBT0Q&s=10"
+  },
+  {
+    "id": "d29bdee5-712e-4afb-bfaf-b63fe149d370",
+    "nome": "Rainha Luna",
+    "papel": "Ex-Rainha de Solária",
+    "escolaOuLocal": "Solária",
+    "relacaoComWinx": "Mãe de Stella",
+    "poderes": null,
+    "biografia": "Luna é a ex-esposa de Radius, dos quais se divorciou (segundo os quadrinhos, por ele ser um workaholic). Inicialmente tratada com desdém pelo ex-marido, conquista gradualmente respeito e reconciliação, cuidando dele quando adoeceu na 5ª temporada.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/3/3f/Luna_S8E17.png/revision/latest/scale-to-width-down/600?cb=20210102102718",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyXCufUp3Z3S36Ipt1cPrUEyfOcVKzEq0s7DAmfTtEw&s=10"
+  },
+  {
+    "id": "ec082d4a-2b7f-4679-927a-5263079773b6",
+    "nome": "Diaspro",
+    "papel": "Princesa das Gemas",
+    "escolaOuLocal": "Eraklyon",
+    "relacaoComWinx": "Ex-noiva arranjada de Sky; rival/antagonista de Bloom e das Winx, embora retratada de forma mais simpática nos quadrinhos",
+    "poderes": [
+      "Controle de gemas e pedras preciosas",
+      "Barreiras protetoras, rajadas de energia e formações de cristal",
+      "Telecinese e transmutação básicas"
+    ],
+    "biografia": "Diaspro foi comprometida com Sky por razões políticas e treinada para se tornar rainha de Eraklyon. Inicialmente mimada e manipuladora, tentando separar Sky de Bloom, ganha maior profundidade nos quadrinhos, onde amadurece e passa a apoiar o relacionamento dos dois.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/0/02/DiasproEp814%281%29.png/revision/latest/scale-to-width-down/600?cb=20191103032734",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiaqdeBmnPx4OLDXgWZZJ7GwazE7WJQ_V35DIZ_T_nsw&s=10"
+  },
+  {
+    "id": "019225ab-1bdb-421d-8356-000e5d0dafe0",
+    "nome": "Mitzi",
+    "papel": "Rival e vizinha de escola de Bloom",
+    "escolaOuLocal": "Gardenia, Terra",
+    "relacaoComWinx": "Antagonista recorrente de Bloom e Stella, rivalizando por popularidade",
+    "poderes": [
+      "Poderes temporários de fada das trevas concedidos pelos Feiticeiros do Círculo Negro na 4ª temporada (projeção de energia, escudos e voo)"
+    ],
+    "biografia": "Mitzi é uma adolescente rica e mimada, obcecada por popularidade e bens materiais. Alia-se brevemente aos Feiticeiros do Círculo Negro na 4ª temporada esperando derrotar as Winx, mas abandona o plano quando seus poderes se mostram insuficientes.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/6/65/Mitzis5.jpg/revision/latest/scale-to-width-down/600?cb=20250510185242",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXRAKAneBB6w19y-R3L7TFc9IQEf_ATDFtCRxB7KvdA&s=10"
+  },
+  {
+    "id": "98826b5f-1297-4575-ac37-5008b5d5d58f",
+    "nome": "Chatta",
+    "papel": "Pixie da Fofoca",
+    "escolaOuLocal": "Vila das Pixies",
+    "relacaoComWinx": "Pixie vinculada a Flora",
+    "poderes": [
+      "Magia de pixie ligada à fofoca/comunicação"
+    ],
+    "biografia": "Chatta é a pixie vinculada a Flora, integrante do grupo de pixies que auxiliam as Winx em suas aventuras a partir da 2ª temporada.",
+    "imagemUrl": "https://static.wikia.nocookie.net/winx/images/0/08/Chatta-721-1.png/revision/latest/scale-to-width-down/600?cb=20230826154950",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnI4rQPXT0dzuqIkI6mrHQZDI4o80UIr22cRJHCHcc9Q&s=10"
+  }
+]

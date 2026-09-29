@@ -1,0 +1,17 @@
+{
+  "name": "winx-club-api",
+  "version": "1.0.0",
+  "description": "API REST completa e não-oficial com dados do desenho Winx Club (Clube das Winx): personagens, vilões, personagens secundários, temporadas/episódios e transformações. Zero dependências externas — roda só com Node.js.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["winx", "winx-club", "clube-das-winx", "api", "rest"],
+  "license": "MIT",
+  "dependencies": {}
+}
